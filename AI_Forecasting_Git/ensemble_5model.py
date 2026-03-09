@@ -24,9 +24,9 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY2")
+api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
-    raise RuntimeError("OPENAI_API_KEY2 not found")
+    raise RuntimeError("OPENAI_API_KEY not found")
 
 client = OpenAI(api_key=api_key)
 

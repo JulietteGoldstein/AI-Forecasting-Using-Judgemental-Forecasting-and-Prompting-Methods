@@ -1,0 +1,701 @@
+event_ticker,prompt,answer_options,model_output
+KXNHLTOTAL-25DEC16VANNYR,How many total goals will be scored in the Vancouver vs New York game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC16UTABOS,What will be the total number of goals scored in the Utah vs Boston game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC16PHIMTL,How many total points will be scored in the Philadelphia vs Montreal game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 4.5 goals scored
+KXNHLTOTAL-25DEC16NYIDET,How many total goals will be scored in the New York I vs Detroit game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC16CHITOR,How many total goals will be scored in the Chicago vs Toronto game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC16ANACBJ,What will be the total number of goals scored in the Anaheim vs Columbus game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLSPREAD-25DEC16VANNYR,"Which team will win by more than a certain number of goals, and by how many goals will they win?","Vancouver wins by over 2.5 goals, Vancouver wins by over 1.5 goals, New York R wins by over 2.5 goals, New York R wins by over 1.5 goals",Vancouver wins by over 1.5 goals
+KXNHLSPREAD-25DEC16UTABOS,"Which team will win by more than 2.5 goals, Utah or Boston?","Utah wins by over 2.5 goals, Utah wins by over 1.5 goals, Boston wins by over 2.5 goals, Boston wins by over 1.5 goals",Utah wins by over 2.5 goals
+KXNHLSPREAD-25DEC16PHIMTL,Which team will win and by how many goals?,"Philadelphia wins by over 2.5 goals, Philadelphia wins by over 1.5 goals, Montreal wins by over 2.5 goals, Montreal wins by over 1.5 goals",Philadelphia wins by over 1.5 goals
+KXNHLSPREAD-25DEC16NYIDET,Will New York I or Detroit win by more than 1.5 or 2.5 goals?,"New York I wins by over 2.5 goals, New York I wins by over 1.5 goals, Detroit wins by over 2.5 goals, Detroit wins by over 1.5 goals",New York I wins by over 1.5 goals
+KXNHLSPREAD-25DEC16CHITOR,"Will Toronto or Chicago win, and by how many goals?","Toronto wins by over 2.5 goals, Toronto wins by over 1.5 goals, Chicago wins by over 2.5 goals, Chicago wins by over 1.5 goals",Toronto wins by over 1.5 goals
+KXNHLSPREAD-25DEC16ANACBJ,"Will Columbus or Anaheim win, and by how many goals?","Columbus wins by over 2.5 goals, Columbus wins by over 1.5 goals, Anaheim wins by over 2.5 goals, Anaheim wins by over 1.5 goals",Columbus wins by over 1.5 goals
+KXNHLGAME-25DEC16VANNYR,Who will win between the Vancouver Canucks and the New York Rangers?,"VAN Canucks, NYR Rangers",NYR Rangers
+KXNHLGAME-25DEC16UTABOS,Who will win the match between Utah Mammoth and Boston Bruins?,"UTA Mammoth, BOS Bruins",BOS Bruins
+KXNHLGAME-25DEC16PHIMTL,Who will win the game between Philadelphia Flyers and Montreal Canadiens?,"PHI Flyers, MTL Canadiens",PHI Flyers
+KXNHLGAME-25DEC16NYIDET,Who will win between the New York Islanders and the Detroit Red Wings?,"NYI Islanders, DET Red Wings",NYI Islanders
+KXNHLGAME-25DEC16CHITOR,Who will win between the Chicago Blackhawks and the Toronto Maple Leafs?,"TOR Maple Leafs, CHI Blackhawks",TOR Maple Leafs
+KXNHLGAME-25DEC16ANACBJ,Who will win the game between the Anaheim Ducks and the Columbus Blue Jackets?,"CBJ Blue Jackets, ANA Ducks",ANA Ducks
+KXNCAAWBGAME-25DEC16WSUHALL,Who will win the game between Washington State and Seton Hall?,"Washington St., Seton Hall",Washington St.
+KXNCAAWBGAME-25DEC16SHSUALA,Which team will win between Sam Houston and Alabama?,"Sam Houston, Alabama",Alabama
+KXNCAAWBGAME-25DEC16BINGSYR,Who will win the game between Binghamton and Syracuse?,"Syracuse, Binghamton",Syracuse
+KXNCAAMBTOTAL-25DEC16LOUTENN,What will be the total points scored in the Louisville vs. Tennessee game?,"Over 172.5 points scored, Over 169.5 points scored, Over 166.5 points scored, Over 163.5 points scored, Over 160.5 points scored, Over 157.5 points scored, Over 154.5 points scored, Over 151.5 points scored, Over 148.5 points scored, Over 145.5 points scored, Over 142.5 points scored",Over 163.5 points scored
+KXNCAAMBSPREAD-25DEC16LOUTENN,By how many points will Tennessee or Louisville win the game?,"Tennessee wins by over 8.5 Points, Tennessee wins by over 5.5 Points, Tennessee wins by over 2.5 Points, Tennessee wins by over 14.5 Points, Tennessee wins by over 11.5 Points, Louisville wins by over 7.5 Points, Louisville wins by over 4.5 Points, Louisville wins by over 16.5 Points, Louisville wins by over 13.5 Points, Louisville wins by over 10.5 Points, Louisville wins by over 1.5 Points",Tennessee wins by over 14.5 Points
+KXNCAAMBGAME-25DEC16UTRGVLAM,Who will win the game between UT Rio Grande Valley and Lamar?,"UT Rio Grande Valley, Lamar",Lamar
+KXNCAAMBGAME-25DEC16UMKCOKLA,Who will win the game between Kansas City and Oklahoma?,"Kansas City, Oklahoma",Kansas City
+KXNCAAMBGAME-25DEC16TARLMVSU,Who will win the game between Tarleton State and Mississippi Valley State?,"Tarleton St., Mississippi Valley St.",Tarleton St.
+KXNCAAMBGAME-25DEC16SCARCLEM,Who will win the game between South Carolina and Clemson?,"South Carolina, Clemson",Clemson
+KXNCAAMBGAME-25DEC16RIDDEL,Who will be the winner in Delaware?,"Rider, Delaware",Delaware
+KXNCAAMBGAME-25DEC16OHWOHIO,Who will win the game between Ohio Wesleyan and Ohio?,"Ohio Wesleyan, Ohio",Ohio
+KXNCAAMBGAME-25DEC16NCATUNCG,Who will win the game between North Carolina A&T and UNC Greensboro?,"UNC Greensboro, North Carolina A&T",UNC Greensboro
+KXNCAAMBGAME-25DEC16MOHWRST,Who will win the game between Miami (OH) and Wright St.?,"Wright St., Miami (OH)",Wright St.
+KXNCAAMBGAME-25DEC16MBUHP,"Which team will win, Mary Baldwin or High Point?","Mary Baldwin, High Point",High Point
+KXNCAAMBGAME-25DEC16LOUTENN,Who will win the game between Louisville and Tennessee?,"Tennessee, Louisville",Tennessee
+KXNCAAMBGAME-25DEC16FSUDAY,Who will win the game between Florida State and Dayton?,"Florida St., Dayton",Florida St.
+KXNCAAMBGAME-25DEC16FIUMIA,Who will win the game between Florida International and Miami (FL)?,"Miami (FL), Florida International",Miami (FL)
+KXNCAAMBGAME-25DEC16DEPSJU,Who will win the game between DePaul and St. John's?,"St. John's, DePaul",St. John's
+KXNCAAMBGAME-25DEC16CHSBGSU,Who will win the game between Chicago State and Bowling Green?,"Chicago St., Bowling Green",Bowling Green
+KXNCAAMBGAME-25DEC16CANURI,Who will win the game between Canisius and Rhode Island?,"Rhode Island, Canisius",Rhode Island
+KXNCAAMBGAME-25DEC16BELEVAN,Who will win the game between Belmont and Evansville?,"Evansville, Belmont",Belmont
+KXNHLTOTAL-25DEC16EDMPIT,How many total goals will be scored in the Edmonton vs Pittsburgh game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 4.5 goals scored
+KXNHLSPREAD-25DEC16EDMPIT,"Which team will win the game, and by how many goals?","Pittsburgh wins by over 2.5 goals, Pittsburgh wins by over 1.5 goals, Edmonton wins by over 2.5 goals, Edmonton wins by over 1.5 goals",Pittsburgh wins by over 1.5 goals
+KXNHLGAME-25DEC16EDMPIT,Who will win the game between Edmonton and Pittsburgh?,"PIT Penguins, EDM Oilers",EDM Oilers
+KXNCAAWBGAME-25DEC16AUBMTU,Who will win the game between Auburn and Middle Tennessee?,"Middle Tennessee, Auburn",Auburn
+KXNCAAWBGAME-25DEC16ARPBTCU,Who will win the game between Arkansas-Pine Bluff and TCU?,"TCU, Arkansas-Pine Bluff",TCU
+KXNCAAMBGAME-25DEC16UALRMORE,Who will win the game between Little Rock and Morehead St.?,"Little Rock, Morehead St.",Little Rock
+KXNCAAMBGAME-25DEC16MRSTGT,Who will win the game between Marist and Georgia Tech?,"Marist, Georgia Tech",Georgia Tech
+KXNCAAMBGAME-25DEC16LIUMSST,Who will win the game between LIU and Mississippi State?,"Mississippi St., LIU",Mississippi St.
+KXNHLTOTAL-25DEC16WSHMIN,What will be the total number of goals scored in the Washington vs Minnesota game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLSPREAD-25DEC16WSHMIN,Will Washington or Minnesota win by over 1.5 or 2.5 goals?,"Washington wins by over 2.5 goals, Washington wins by over 1.5 goals, Minnesota wins by over 2.5 goals, Minnesota wins by over 1.5 goals",Washington wins by over 1.5 goals
+KXNHLGAME-25DEC16WSHMIN,Who will win the game between the Washington Capitals and the Minnesota Wild?,"WSH Capitals, MIN Wild",WSH Capitals
+KXNCAAMBGAME-25DEC16YORKNEOM,Who will win the game between York College (NE) and Omaha?,"York College (NE), Omaha",Omaha
+KXNCAAMBGAME-25DEC16VALPNW,Who will win the basketball game between Valparaiso and Northwestern?,"Valparaiso, Northwestern",Northwestern
+KXNCAAMBGAME-25DEC16UNCOTTU,Who will win the game between Northern Colorado and Texas Tech?,"Northern Colorado, Texas Tech",Texas Tech
+KXNCAAMBGAME-25DEC16ORUMOSU,Who will win the game between Oral Roberts and Missouri State?,"Oral Roberts, Missouri St.",Missouri St.
+KXNCAAMBGAME-25DEC16LMCTEX,Who will win the game between Le Moyne and Texas?,"Texas, Le Moyne",Texas
+KXNCAAMBGAME-25DEC16EWUNIU,Who will win the game between East-West and Northern Illinois?,"Northern Illinois, East-West",Northern Illinois
+KXNCAAMBGAME-25DEC16ETSUUNC,Who will win the game between East Tennessee State and North Carolina?,"North Carolina, East Tennessee St.",North Carolina
+KXNCAAMBGAME-25DEC16BUTCONN,Who will win the game between Butler and UConn?,"UConn, Butler",UConn
+KXNBATOTAL-25DEC16SASNYK,What will be the total combined points scored in the San Antonio at New York game?,"Over 242.5 points scored, Over 239.5 points scored, Over 236.5 points scored, Over 233.5 points scored, Over 230.5 points scored, Over 227.5 points scored, Over 224.5 points scored, Over 221.5 points scored, Over 218.5 points scored, Over 215.5 points scored, Over 212.5 points scored",Over 230.5 points scored
+KXNBASPREAD-25DEC16SASNYK,Which team will win the game and by how many points?,"San Antonio wins by over 7.5 Points, San Antonio wins by over 4.5 Points, San Antonio wins by over 13.5 Points, San Antonio wins by over 10.5 Points, San Antonio wins by over 1.5 Points, New York wins by over 8.5 Points, New York wins by over 5.5 Points, New York wins by over 2.5 Points, New York wins by over 17.5 Points, New York wins by over 14.5 Points, New York wins by over 11.5 Points",San Antonio wins by over 1.5 Points
+KXNCAAWBGAME-25DEC16UNCOCOLO,Who will win the game between Northern Colorado and Colorado?,"Northern Colorado, Colorado",Colorado
+KXNCAAWBGAME-25DEC16CHAPLMU,Who will win the game between Chapman and Loyola Marymount?,"Loyola Marymount, Chapman",Loyola Marymount
+KXNCAAWBGAME-25DEC16ASUGONZ,Who will win the game between Arizona State and Gonzaga?,"Gonzaga, Arizona St.",Gonzaga
+KXNCAAMBGAME-25DEC16UCCSDEN,Who will win the UC-Colorado Springs vs. Denver game?,"UC-Colorado Springs, Denver",Denver
+KXNCAAMBGAME-25DEC16TOWSKU,Who will win the game between Towson and Kansas?,"Towson, Kansas",Kansas
+KXNCAAMBGAME-25DEC16QUCARK,Who will win between Queens University and Arkansas?,"Queens University, Arkansas",Arkansas
+KXNCAAMBGAME-25DEC16PACBYU,Who will win the Pacific at BYU game?,"Pacific, BYU",BYU
+KXNCAAMBGAME-25DEC16ACARIZ,Who will win the game between Abilene Christian and Arizona?,"Arizona, Abilene Christian",Arizona
+KXNCAAFGAME-25DEC16TROYJVST,Who will win the game between Troy and Jacksonville State?,"Troy, Jacksonville St.",Troy
+KXNHLTOTAL-25DEC16COLSEA,How many total goals will be scored in the Colorado vs Seattle game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC16CGYSJ,How many total points will be scored in the Calgary vs San Jose game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 6.5 goals scored
+KXNHLSPREAD-25DEC16COLSEA,By how many goals will Seattle or Colorado win the game?,"Seattle wins by over 2.5 goals, Seattle wins by over 1.5 goals, Colorado wins by over 2.5 goals, Colorado wins by over 1.5 goals",Seattle wins by over 1.5 goals
+KXNHLSPREAD-25DEC16CGYSJ,Which team will win by more than 2.5 goals?,"San Jose wins by over 2.5 goals, San Jose wins by over 1.5 goals, Calgary wins by over 2.5 goals, Calgary wins by over 1.5 goals",San Jose wins by over 2.5 goals
+KXNHLGAME-25DEC16COLSEA,Who will win the game between the Colorado Avalanche and the Seattle Kraken?,"SEA Kraken, COL Avalanche",COL Avalanche
+KXNHLGAME-25DEC16CGYSJ,Who will win the game between Calgary and San Jose?,"SJ Sharks, CGY Flames",CGY Flames
+KXNCAAWBGAME-25DEC16CPUCLA,Who will win the game between Cal Poly and UCLA?,"UCLA, Cal Poly",UCLA
+KXNCAAMBGAME-25DEC16SUFEUCRV,"Who will be the winner, Stanton or UC Riverside?","UC Riverside, Stanton",UC Riverside
+KXNCAAMBGAME-25DEC16SOUCBU,Who will win between Southern University and California Baptist?,"Southern University, California Baptist",California Baptist
+KXNCAAMBGAME-25DEC16MTSTCP,Who will win the game between Montana State and Cal Poly?,"Montana St., Cal Poly",Montana St.
+KXNCAAMBGAME-25DEC16UCSDLMU,Who will win the game between UC San Diego and Loyola Marymount?,"UC San Diego, Loyola Marymount",UC San Diego
+KXNBLGAME-25DEC17A36SYD,Who will win the game between the Sydney Kings and the Adelaide 36ers?,"Sydney Kings, Adelaide 36ers",Sydney Kings
+KXCBAGAME-25DEC17SBWSHA,Who will win the game between Shandong Kirin and Sichuan Blue Whales?,"Shandong Kirin, Sichuan Blue Whales",Sichuan Blue Whales
+KXCBAGAME-25DEC17LIABED,Which team will win the game between the Beijing Ducks and the Liaoning Flying Leopards?,"Liaoning Flying Leopards, Beijing Ducks",Liaoning Flying Leopards
+KXTACAPORTGAME-25DEC17VILLEI,Who will win the match between Vila Mea and Leiria?,"Vila Mea, Tie, Leiria",Leiria
+KXWLEADER-25,Who will Trump meet with before 2025?,"Kim Jong-Un, Justin Trudeau, Nicolás Maduro",Justin Trudeau
+KXZUCKMUSK-25,Will Zuckerberg and Musk fight in 2025?,"In 2025, Not In 2025",Not In 2025
+KXWAYMOCITIES-25,"How many cities will Waymo be operating in on December 31, 2025?","9, 8, 7, 6, 5, 4, 3, 2, 13, 12, 11, 10, 1, 0",6
+KXWAINWRIGHTBANANAS-25,Will Adam Wainwright attend the Savannah Bananas game?,"Adam Wainwright, Not Adam Wainwright",Not Adam Wainwright
+KXVOTINGBILL-25,"Will a bill that changes early voting, by-mail voting, voter ID, or voter registration practices for federal elections become law before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Before Dec 31, 2025"
+KXVACCINEW-25,Will any Covid vaccine lose its FDA approval in the US in 2025?,"By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXUSMINE-25,Will the federal government start mining Bitcoin before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXUSDCUSDTRATIO-25,Will the USDC market cap exceed 50% of the USDT market cap by the end of 2025?,"On Dec 31, 2025, Not On Dec 31, 2025","On Dec 31, 2025"
+KXTVSHOWSCANCELLED-25,Which of the following shows will be cancelled this year?,"The View, The Tonight Show Starring Jimmy Fallon, South Park, Late Night With Seth Meyers, Jimmy Kimmel Live!, The Daily Show",South Park
+KXTRANSSPORTSSUIT-25,Which states will Trump sue over their trans sports policies?,"Minnesota, Not Minnesota",Minnesota
+KXTPSUKR-25,Will Temporary Protected Status for Ukraine end in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPMODEL-25DEC,Which AI model will be considered the top model this month?,"qwen3-max-preview, mistral-medium-2508, grok-4.1-thinking, :: exact name will update based on the highest scoring gpt-5.2 model, gpt-5.1-high, glm-4.6, gemini-3-pro, gemini-2.5-pro, ernie-5.0-preview-1022, claude-opus-4-5-20251101",gpt-5.1-high
+KXTOP3WEALTH-25DEC31,Who will be one of the three wealthiest people in the world?,"Warren Buffett, Mark Zuckerberg, Larry Ellison, Jensen Huang, Jeff Bezos, Elon Musk",Elon Musk
+KXTOP3AI-25,What will be the top three AI companies at the end of 2025?,"OpenAI, Google, and xAI, OpenAI, Google, and Meta, OpenAI, Google, and Anthropic, OpenAI, Google, and 01 AI","OpenAI, Google, and Anthropic"
+KXTIKTOKLEAVE-25DEC,Will TikTok leave the app store before December 2025?,"Before 2026, Not Before 2026",Before 2026
+KXTARIFFSEMI-25,Will tariffs on semiconductors come into effect before December 2025?,"Before Dec 2025, Not Before Dec 2025",Not Before Dec 2025
+KXTARIFFPHARMA-25,Will tariffs on pharmaceuticals come into effect before December 2025?,"Before Dec 2025, Not Before Dec 2025",Before Dec 2025
+KXSWHIRES-25,Which of these companies will announce hiring freezes on software engineers this year?,"Tesla, NVIDIA, Microsoft, Meta, Google, Amazon, Apple",Meta
+KXSTARLINKFAA-25,Will Starlink receive an FAA contract in 2025?,"In 2025, Not In 2025",In 2025
+KXSTABLETOTAL-25,What will the combined market capitalization of USDC and USDT be at the end of 2025?,"At least $300 billion, At least $250 billion",At least $300 billion
+KXSPOTIFYSONG-25,Will each of these artists release a song this year?,"Radiohead, Olivia Rodrigo, Nicki Minaj, John Mayer, J. Cole, JAY-Z, Frank Ocean, BTS, Bruno Mars, Beyonce, Aphex Twin",Olivia Rodrigo
+KXSPOTIFYALBUMRELEASE-25,Which of these artists will release an album this year?,"Rihanna, Nicki Minaj, Lil Uzi Vert, LCD Soundsystem, John Mayer, Jack Harlow, J. Cole, Harry Styles, Frank Ocean, Drake, Beyonce, Aphex Twin, A$AP Rocky, JAY-Z",Drake
+KXSPACEXREUSE-25,Will the upper stage of the SpaceX Starship be recovered intact during the year 2025?,"In 2025, Not In 2025",In 2025
+KXSFFASUIT-25,Will the Department of Justice sue an AAU university for failing to comply with Students For Fair Admission v Harvard during the year 2025?,"In 2025, Not In 2025",Not In 2025
+KXSCREWWORMCOUNT-25,How many cases of Screwworm will there be in the USA in 2025?,"At least 5, At least 3, At least 25, At least 10",At least 3
+KXSCHUMEROUT-25,Will Chuck Schumer stop being Senate Minority Leader before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXSCHEDULEFSUIT-25,Will a federal court rule that Trump’s Schedule F order is unlawful in 2025?,"In 2025, Not In 2025",In 2025
+KXPRCSTUDENTS-25,"Will a bill that limits, restricts, bans, or grants the Executive Branch the power to limit, restrict, or ban students from the People's Republic of China from attending universities and colleges in the United States become law before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXPLAYBOICARTI-25,Will Playboi Carti release another album this year?,"Playboi Carti, Not Playboi Carti",Playboi Carti
+KXPLAGUECOUNT-25,How many cases of the plague will there be in the USA in 2025?,"At least 5, At least 15, At least 10",At least 5
+KXOSWORLD-25,What is the highest score that any large language model (LLM) will achieve on OSWorld this year?,"At least 90, At least 80, At least 70",At least 70
+KXOSCARDEI-25,Will the Oscars end their diversity requirements before 2025?,"Before 2025, Not Before 2025",Not Before 2025
+KXOILRIGS-25,How many oil rigs will the US have at the end of the year?,"At least 800, At least 700, At least 650, At least 625, At least 600, At least 575, At least 550, At least 525, At least 500, At least 475, At least 450",At least 550
+KXOHFLAGLAW-25,"Will a bill that makes it a felony to plant a flag at the Ohio State stadium become law before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXOAIGOOGLE-25DEC31,"Will OpenAI's best model outperform Google's best model by various point margins on Dec 31, 2025?","Above 60 points, :: Gap on Nov 4, 2024, Above 200 points, Above 20 points, Above 100 points, Above 0 points",Above 0 points
+KXNEWSOMGUEST-25,Who will go on the This Is Gavin Newsom show this year?,"Tucker Carlson, Palmer Luckey, Mark Zuckerberg, Marc Andreessen, Kamala Harris, JD Vance, Ivanka Trump, Hillary Clinton, Elon Musk, Donald Trump, Candace Owens, Barack Obama, Alex Jones",Elon Musk
+KXNEWROLEX-25,Who will be the next CEO of X?,"Jack Dorsey, Elon Musk",Elon Musk
+KXNEWOUTBREAKPMPOX,"Will there be a new pandemic by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWOUTBREAKPMEASLES,"Will there be a new pandemic by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWOUTBREAKPHEICMEASLES,Will there be a new public health emergency of international concern declared by the end of 2025?,"By Dec 31, 2025, Not By Dec 31, 2025","By Dec 31, 2025"
+KXNEWOUTBREAKPHEICCOVID,"Will there be a new public health emergency of international concern declared by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWOUTBREAKPHEICCHIK,Will Chikungunya be declared a Public Health Emergency of International Concern (PHEIC) in 2025?,"In 2025, Not In 2025",Not In 2025
+KXNEWOUTBREAKPH5N1,"Will there be a new pandemic by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWOUTBREAKPCOVID,"Will there be a new pandemic by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWOUTBREAKPCHIK,Will there be a chikungunya pandemic in 2025?,"In 2025, Not In 2025",Not In 2025
+KXNEWOUTBREAK-P,"Will there be a new pandemic by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWCOINCHAIN-25,Which blockchain will Kanye use to launch his token?,"Ripple, Multiple chains, Ethereum, Binance Smart Chain",Ethereum
+KXMUSKVISIT-25,Which countries will Elon Musk visit this year?,"Russia, North Korea, Mexico, India, Canada",India
+KXMUSKUNCONST-25,"Will the Supreme Court rule on whether Musk's role at the White House is unconstitutional before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXMUNIBONDTAX-25,"Will a bill that eliminates the federal tax exemption on interest from municipal bonds become law before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXMETACLOSE-25,Will Meta release a non-open source AI model in 2025?,"Before 2025, Not Before 2025",Not Before 2025
+KXKEYSTONE-25,Will the development of the Keystone XL pipeline be revived in 2025?,"In 2025, Not In 2025",Not In 2025
+KXKENNEDYCENTER-25,Will anyone publicly reject Kennedy Center Honors in 2025?,"In 2025, Not In 2025",In 2025
+KXIPHONEASSEMBLE-25,Will Apple announce any iPhone assembly operations in the US in 2025?,"In 2025, Not In 2025",Not In 2025
+KXINJS-25,"Will a bill limiting nationwide injunctions by district court judges pass the Senate before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXINJLAW-25,"Will a bill limiting nationwide injunctions by district court judges become law before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXIMPEACHJUDGE-25,Will the House impeach a federal judge before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXHURPATHSCAROLINA-25DEC,Will a hurricane make landfall in South Carolina before 2025?,"Before 2025, Not Before 2025",Before 2025
+KXHURPATHHOU-25,Will a hurricane make landfall in Houston during the 2025 hurricane season?,"Before 2025, Not Before 2025",Not Before 2025
+KXHURPATHHAWAII-25DEC,Will a hurricane make landfall in Hawaii before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXHURPATHGULFCOAST-25,Will a hurricane make landfall in the U.S. Gulf Coast during the 2025 hurricane season?,"Before 2026, Not Before 2026",Before 2026
+KXHURPATHFLA-25,Will a hurricane make landfall in Florida before 2025?,"Before 2025, Not Before 2025",Before 2025
+KXHEADSTART-25,Will Trump end Head Start before 2025?,"Before 2025, Not Before 2025",Not Before 2025
+KXGOLDCARDS-25,How many Gold Cards will Trump sell this year?,"Above 100,000, 0, 5,001 to 10,000, 25,001 to 100,000, 101 to 1,000, 1 to 100, 2,501 to 5,000, 1,001 to 2,500, 10,001 to 25,000",0
+KXGASBAN-25,Which states will enact gas stove bans this year?,"Oregon, New Hampshire, Maine, Delaware, Connecticut",Oregon
+KXFLIGHTSRUSSIA-25,Will U.S. direct flights to Russia resume before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXFERT-25,How high will the price of fertilizer get this year?,"Above $800, Above $700, Above $650, Above $625",Above $800
+KXFEDWIKI-25,Will federal employees be prohibited from editing Wikipedia in 2025?,"In 2025, Not In 2025",Not In 2025
+KXFEATUREYE,Who will be featured on the song 'BULLY' by Ye/Kanye West?,"The Weeknd, Ty Dolla $ign, Travis Scott, Pusha T, Playboi Carti, North West, Lil Durk, Kid Cudi, Future, Drake",The Weeknd
+KXEXPORTTARIFF-25,Will Trump try to impose export tariffs before 2025?,"Before 2025, Not Before 2025",Before 2025
+KXEXITCONSERV-25,Will Freddie Mac and Fannie Mae exit government conservatorship in 2025?,"In 2025, Not In 2025",Not In 2025
+KXETHFLIP-25,Will Ethereum be overtaken by another cryptocurrency in 2025?,"In 2025, Not In 2025",In 2025
+KXDOJPARDONS-25,Will the DOJ claim in federal court that any of President Biden's pardons are void in 2025?,"In 2025, Not In 2025",Not In 2025
+KXDOGEDIV-25,Will a DOGE dividend be issued before 2025?,"Before 2025, Not Before 2025",Not Before 2025
+KXDJTROBERTS-25,Will Trump call for John Roberts to retire or be impeached in 2025?,"In 2025, Not In 2025",Not In 2025
+KXDJTNFT-25,Will Donald Trump launch an NFT before 2025?,"Before 2025, Not Before 2025",Before 2025
+KXDJTMETA-25,Will Donald Trump launch a metaverse before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXDJTGREENLAND-25,Will Donald Trump visit Greenland in 2025?,"In 2025, Not In 2025",Not In 2025
+KXDJTCHAIN-25,Will Donald Trump launch a new blockchain before 2025?,"Before 2025, Not Before 2025",Before 2025
+KXDJOKOVICRETIRE-25,Will Novak Djokovic announce his retirement before the start of the 2026-27 regular season?,"Before the start of the 2026-27 regular season, Not Before the start of the 2026-27 regular season",Not Before the start of the 2026-27 regular season
+KXDEPORTELSAL-25,Will it be reported that the US has deported a citizen to El Salvador in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCRYPTORESERVE-25,Which crypto assets will Trump's crypto reserve acquire this year?,"XRP, Solana, Ether, Bitcoin, Cardano",Bitcoin
+KXCRYPTOPAY-25,"Will Google, Meta, Amazon, Tesla, or X accept cryptocurrency for any of their core services in 2025?","In 2025, Not In 2025",Not In 2025
+KXCHINAUNRUBIO-25,Will China announce they are ending their sanctions against Marco Rubio in 2025?,"In 2025, Not In 2025",Not In 2025
+KXBUYBTC-25,"Will a bill that authorizes the U.S. government to purchase at least one million Bitcoin pass the Senate before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Not Before Dec 31, 2025"
+KXBOASTABLE-25,Will Bank of America launch a stablecoin in 2025?,"In 2025, Not In 2025",Not In 2025
+KXBARRELS-25,How many barrels of oil per day will the US produce this year?,"At least 16000000, At least 15000000, At least 14500000, At least 14000000",At least 16000000
+KXAMBMALAY-25,When will Trump's nominee for Ambassador to Malaysia be confirmed?,"Before Dec 31, 2025, Not Before Dec 31, 2025","Before Dec 31, 2025"
+KXAFDBANREQUEST-25,Will the German government request a ban of the AfD in 2025?,"In 2025, Not In 2025",Not In 2025
+IRONMAN,"Will Robert Downey Jr. return as Iron Man by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNWEST-25,Will North West release an album on Spotify in 2025?,"In 2025, Not In 2025",Not In 2025
+KXMINWAGE-25,Will the minimum wage be increased before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXMAMMAMIA3-25,"Will a third Mamma Mia movie be announced before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Before Dec 31, 2025"
+KXCMEATBAN-25,Which states will ban lab-grown meat?,"Tennessee, New Hampshire, Arizona",Tennessee
+KXNCAAWBGAME-25DEC17WOFECU,Who will win the game between Wofford and East Carolina?,"Wofford, East Carolina",East Carolina
+KXNCAAWBGAME-25DEC17WINCHAR,Which team will win the game between Winthrop and Charlotte?,"Winthrop, Charlotte",Charlotte
+KXNCAAWBGAME-25DEC17LASDEL,Who will win the game between La Salle and Delaware?,"La Salle, Delaware",La Salle
+KXNCAAWBGAME-25DEC17CLEMCHSO,Who will win the game between Clemson and Charleston Southern?,"Clemson, Charleston Southern",Clemson
+KXEUROCUPGAME-25DEC17NEPUNC,Who will win the match between FC Universitatea Cluj and BC Neptunas Klaipeda?,"FC Universitatea Cluj, BC Neptunas Klaipeda",BC Neptunas Klaipeda
+KXEUROCUPGAME-25DEC17BOUTTS,Who will win the match between Turk Telekom and JL Bourg Basket?,"Turk Telekom, JL Bourg Basket",Turk Telekom
+KXNCAAMBGAME-25DEC17KCCCARK,Who will win the game between Kansas Christian and Central Arkansas?,"Kansas Christian, Central Arkansas",Central Arkansas
+KXCOPADELREYGAME-25DEC17LEOLEV,Who will win the match between Cultural Leonesa and Levante?,"Tie, Levante, Cultural Leonesa",Levante
+KXNCAAMBGAME-25DEC17SWCURICE,Who will win between Southwestern Christian and Rice?,"Southwestern Christian, Rice",Rice
+KXNCAAWBGAME-25DEC17JACTTU,Who will win the game between Jacksonville and Texas Tech?,"Texas Tech, Jacksonville",Texas Tech
+KXEUROCUPGAME-25DEC17ULMPBC,Who will win the basketball game between Panionios BC Athens and Ulm Basketball?,"Ulm Basketball, Panionios BC Athens",Ulm Basketball
+KXNCAAMBGAME-25DEC17CBAPARPB,Who will win between Champion Christian College and Arkansas-Pine Bluff?,"Champion Christian College, Arkansas-Pine Bluff",Arkansas-Pine Bluff
+KXEUROLEAGUEGAME-25DEC17EFSZAL,Which team will win the game between BC Zalgiris Kaunas and Anadolu Efes SK?,"BC Zalgiris Kaunas, Anadolu Efes SK",Anadolu Efes SK
+KXEUROCUPGAME-25DEC17MANWRO,Who will win the match between Slask Wroclaw and Basquet Manresa?,"Slask Wroclaw, Basquet Manresa",Slask Wroclaw
+KXCOPADELREYGAME-25DEC17SANVIL,Who will win the match between Santander and Villarreal?,"Villarreal, Tie, Santander",Villarreal
+KXCOPADELREYGAME-25DEC17HUEOSA,Who will win the match between Huesca and Osasuna?,"Tie, Osasuna, Huesca",Osasuna
+KXCOPADELREYGAME-25DEC17ATLATM,"Who will win the match between Atletico Baleares and Atletico, or will it end in a tie?","Tie, Atletico, Atletico Baleares",Atletico
+KXCOPADELREYGAME-25DEC17ALBRCC,Who will win the match between Albacete and Celta Vigo?,"Tie, Celta Vigo, Albacete",Celta Vigo
+KXTACAPORTGAME-25DEC17CASTOR,Who will win the match between Casa Pia and Torreense?,"Torreense, Tie, Casa Pia",Casa Pia
+KXEUROCUPGAME-25DEC17ARITOW,Who will win the game between Hamburg Towers and BC Aris Thessaloniki?,"Hamburg Towers, BC Aris Thessaloniki",Hamburg Towers
+KXEUROLEAGUEGAME-25DEC17BAYASV,Who will win the match between ASVEL Lyon-Villeurbanne and Bayern Munich?,"Bayern Munich, ASVEL Lyon-Villeurbanne",Bayern Munich
+KXEUROCUPGAME-25DEC17BAHREV,Who will win the game between Reyer Venezia and Bahcesehir Koleji?,"Reyer Venezia, Bahcesehir Koleji",Reyer Venezia
+KXSWISSLEAGUEGAME-25DEC17YBGCZ,Who will win the match between Young Boys and Grasshopper?,"Young Boys, Tie, Grasshopper",Young Boys
+KXSWISSLEAGUEGAME-25DEC17LUZFCB,Who will win the match between Luzern and Basel?,"Tie, Luzern, Basel",Basel
+KXSWISSLEAGUEGAME-25DEC17FCZLUG,Who will win the match between Zurich and Lugano?,"Tie, Lugano, Zurich",Zurich
+KXEUROLEAGUEGAME-25DEC17VIBKPB,Who will win the game between KK Partizan Belgrade and Virtus Bologna?,"Virtus Bologna, KK Partizan Belgrade",Virtus Bologna
+KXEUROLEAGUEGAME-25DEC17MONBVG,Who will win the game between Baskonia Vitoria-Gasteiz and AS Monaco?,"AS Monaco, Baskonia Vitoria-Gasteiz",AS Monaco
+KXEUROCUPGAME-25DEC17BJKLIO,Who will win the game between London Lions and Besiktas JK?,"London Lions, Besiktas JK",London Lions
+KXEFLCUPGAME-25DEC17MCIBRE,Who will win the match between Manchester City and Brentford?,"Tie, Manchester City, Brentford",Manchester City
+KXTACAPORTGAME-25DEC17VITAVS,Who will win the match between Guimaraes and AVS Futebol SAD?,"Guimaraes, Tie, AVS Futebol SAD",Guimaraes
+KXSCOTTISHPREMGAME-25DEC17DUUCEL,Who will win the match between Dundee United and Celtic?,"Tie, Dundee United, Celtic",Celtic
+KXNCAAWBGAME-25DEC17RICEGRAM,Who will win the game between Rice and Grambling State?,"Rice, Grambling St.",Rice
+KXNCAAWBGAME-25DEC17FAMUFLA,Who will win the football game between Florida A&M and Florida?,"Florida, Florida A&M",Florida
+KXCOPADELREYGAME-25DEC17TALRMA,Who will win the match between Talavera and Real Madrid?,"Tie, Talavera, Real Madrid",Real Madrid
+KXCOPADELREYGAME-25DEC17ALASEV,Who will win the match between Alaves and Sevilla?,"Tie, Sevilla, Alaves",Sevilla
+KXEFLCUPGAME-25DEC17NEWFUL,"Who will win the match between Newcastle and Fulham, or will it end in a tie?","Tie, Newcastle, Fulham",Newcastle
+KXTACAPORTGAME-25DEC17FARBEN,Who will win the match between Farense and SL Benfica?,"Tie, Farense, SL Benfica",SL Benfica
+KXNCAAWBGAME-25DEC17TULNALA,Who will win the game between Tulane and Alabama?,"Tulane, Alabama",Alabama
+KXNCAAWBGAME-25DEC17MVSUMISS,Who will win the game between Mississippi Valley State and Ole Miss?,"Mississippi Valley St., Ole Miss",Ole Miss
+KXNCAAWBGAME-25DEC17JVSTSLU,Who will win the game between Jacksonville State and Saint Louis?,"Saint Louis, Jacksonville St.",Saint Louis
+KXNCAAMBGAME-25DEC17UNIUIC,Who will win the game between Northern Iowa and UIC?,"Northern Iowa, UIC",Northern Iowa
+KXNCAAFTOTAL-25DEC17ODUUSF,What will be the total number of points scored in the Old Dominion vs. South Florida game?,"Over 68.5 points scored, Over 65.5 points scored, Over 62.5 points scored, Over 59.5 points scored, Over 56.5 points scored, Over 53.5 points scored, Over 50.5 points scored, Over 47.5 points scored, Over 44.5 points scored",Over 62.5 points scored
+KXNCAAFSPREAD-25DEC17ODUUSF,Which team will win the game and by how many points?,"South Florida wins by over 9.5 points, South Florida wins by over 7.5 points, South Florida wins by over 6.5 points, South Florida wins by over 3.5 points, South Florida wins by over 20.5 points, South Florida wins by over 2.5 points, South Florida wins by over 17.5 points, South Florida wins by over 14.5 points, South Florida wins by over 13.5 points, South Florida wins by over 10.5 points, Old Dominion wins by over 9.5 points, Old Dominion wins by over 7.5 points, Old Dominion wins by over 6.5 points, Old Dominion wins by over 3.5 points, Old Dominion wins by over 2.5 points, Old Dominion wins by over 10.5 points",South Florida wins by over 3.5 points
+KXNCAAFGAME-25DEC17ODUUSF,Who will win the game between Old Dominion and South Florida?,"South Florida, Old Dominion",South Florida
+KXNCAAWBGAME-25DEC17EKYLOU,Who will win the game between Eastern Kentucky and Louisville?,"Louisville, Eastern Kentucky",Louisville
+KXNCAAMBGAME-25DEC17STNHUNH,Who will win the Stonehill at New Hampshire event?,"New Hampshire, Stonehill",Stonehill
+KXNCAAMBGAME-25DEC17SFPAFLA,Who will win the game between St. Francis (PA) and Florida?,"St. Francis (PA), Florida",Florida
+KXNCAAMBGAME-25DEC17CREIXAV,Which team will win the game between Creighton and Xavier?,"Xavier, Creighton",Xavier
+KXCRICKETTESTMATCH-25DEC16ENGAUS,Who will win the match between Australia and England?,"Tie, England, Australia",England
+KXNHLTOTAL-25DEC17LAFLA,How many total goals will be scored in the Los Angeles vs Florida game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 4.5 goals scored
+KXNHLSPREAD-25DEC17LAFLA,By how many goals will Los Angeles or Florida win?,"Los Angeles wins by over 2.5 goals, Los Angeles wins by over 1.5 goals, Florida wins by over 2.5 goals, Florida wins by over 1.5 goals",Los Angeles wins by over 1.5 goals
+KXNHLGAME-25DEC17LAFLA,Who will win the game between the Los Angeles Kings and the Florida Panthers?,"LA Kings, FLA Panthers",LA Kings
+KXNCAAWBGAME-25DEC17SJUNHC,Who will win the game between St. John's and New Haven?,"St. John's, New Haven",St. John's
+KXNCAAWBGAME-25DEC17SACSF,Who will win the game between Sacramento State and San Francisco?,"San Francisco, Sacramento St.",San Francisco
+KXNCAAWBGAME-25DEC17MARQCONN,Who will win the game between Marquette and UConn?,"Marquette, UConn",UConn
+KXNCAAWBGAME-25DEC17HPDAV,Who will win the game between High Point and Davidson?,"High Point, Davidson",Davidson
+KXNCAAMBGAME-25DEC17YSURMU,Who will win the game between Youngstown State and Robert Morris?,"Youngstown St., Robert Morris",Youngstown St.
+KXNCAAMBGAME-25DEC17VANMEM,Who will win the game between Vanderbilt and Memphis?,"Vanderbilt, Memphis",Memphis
+KXNCAAMBGAME-25DEC17UMESWAG,Who will win the game between Maryland-Eastern Shore and Wagner?,"Wagner, Maryland-Eastern Shore",Wagner
+KXNCAAMBGAME-25DEC17UCSBGB,Who will win the game between UC Santa Barbara and Green Bay?,"UC Santa Barbara, Green Bay",UC Santa Barbara
+KXNCAAMBGAME-25DEC17TXSONCST,Who will win the game between Texas Southern and North Carolina State?,"Texas Southern, North Carolina St.",North Carolina St.
+KXNCAAMBGAME-25DEC17SOWUSCUS,Who will win the game between Southern Wesleyan and USC Upstate?,"Southern Wesleyan, USC Upstate",USC Upstate
+KXNCAAMBGAME-25DEC17SIEUVM,Who will win the Siena vs. Vermont game?,"Vermont, Siena",Vermont
+KXNCAAMBGAME-25DEC17RICHELON,Who will win the game between Richmond and Elon?,"Richmond, Elon",Richmond
+KXNCAAMBGAME-25DEC17QUINMONM,Who will win the game between Quinnipiac and Monmouth?,"Quinnipiac, Monmouth",Quinnipiac
+KXNCAAMBGAME-25DEC17PREECU,Who will win the game between Presbyterian and East Carolina?,"Presbyterian, East Carolina",East Carolina
+KXNCAAMBGAME-25DEC17OLIVCMU,Who will win the game between Olivet and Central Michigan?,"Olivet, Central Michigan",Central Michigan
+KXNCAAMBGAME-25DEC17OAKNKU,Who will win the game between Oakland and Northern Kentucky?,"Oakland, Northern Kentucky",Oakland
+KXNCAAMBGAME-25DEC17MHUSYR,Who will win the game between Mercyhurst and Syracuse?,"Syracuse, Mercyhurst",Syracuse
+KXNCAAMBGAME-25DEC17MERUCF,Who will win the game between Mercer and UCF?,"UCF, Mercer",UCF
+KXNCAAMBGAME-25DEC17MACUNCCU,Who will win the game between Mid-Atlantic Christian and North Carolina Central?,"North Carolina Central, Mid-Atlantic Christian",North Carolina Central
+KXNCAAMBGAME-25DEC17LONGWAKE,Who will win between Longwood and Wake Forest?,"Wake Forest, Longwood",Wake Forest
+KXNCAAMBGAME-25DEC17JACFAMU,Who will win the game between Jacksonville and Florida A&M?,"Jacksonville, Florida A&M",Jacksonville
+KXNCAAMBGAME-25DEC17EKYJVST,Who will win the game between Eastern Kentucky and Jacksonville State?,"Jacksonville St., Eastern Kentucky",Jacksonville St.
+KXNCAAMBGAME-25DEC17CITCOFC,Who will win between The Citadel and Charleston?,"Charleston, The Citadel",Charleston
+KXNCAAMBGAME-25DEC17CHATBELL,Who will win the game between Chattanooga and Bellarmine?,"Chattanooga, Bellarmine",Chattanooga
+KXNCAAMBGAME-25DEC17BPCUWGA,Who will win between Brewton-Parker College and West Georgia?,"West Georgia, Brewton-Parker College",West Georgia
+KXNCAAMBGAME-25DEC17BINGPITT,Who will win the game between Binghamton and Pittsburgh?,"Pittsburgh, Binghamton",Pittsburgh
+KXNCAAMBGAME-25DEC17ALSTCIN,Who will win the game between Alabama State and Cincinnati?,"Cincinnati, Alabama St.",Cincinnati
+KXNCAAMBGAME-25DEC17ALBYSTON,Who will win the game between University at Albany and Stony Brook?,"Stony Brook, University at Albany",Stony Brook
+KXNHLTOTAL-25DEC17UTADET,How many total goals will be scored in the Utah vs Detroit game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLSPREAD-25DEC17UTADET,Who will win the game and by how many goals?,"Utah wins by over 2.5 goals, Utah wins by over 1.5 goals, Detroit wins by over 2.5 goals, Detroit wins by over 1.5 goals",Utah wins by over 1.5 goals
+KXNHLGAME-25DEC17UTADET,Who will win between Utah Mammoth and Detroit Red Wings?,"UTA Mammoth, DET Red Wings",DET Red Wings
+KXNCAAWBGAME-25DEC17UMKCARK,Who will win the game between Kansas City and Arkansas?,"Kansas City, Arkansas",Kansas City
+KXNCAAWBGAME-25DEC17HASKKU,Who will win the game between Haskell Indian Nations and Kansas?,"Kansas, Haskell Indian Nations",Kansas
+KXNCAAWBGAME-25DEC17CREINEOM,Who will win the game between Creighton and Omaha?,"Omaha, Creighton",Creighton
+KXNCAAWBGAME-25DEC17ALSTMSST,Who will win the game between Alabama State and Mississippi State?,"Mississippi St., Alabama St.",Mississippi St.
+KXNCAAMBGAME-25DEC17WOFWICH,Who will win the game between Wofford and Wichita State?,"Wofford, Wichita St.",Wichita St.
+KXNCAAMBGAME-25DEC17USAULM,Who will win the game between South Alabama and Louisiana-Monroe?,"South Alabama, Louisiana-Monroe",South Alabama
+KXNCAAMBGAME-25DEC17LTTULN,Who will win the game between Louisiana Tech and Tulane?,"Tulane, Louisiana Tech",Tulane
+KXNCAAMBGAME-25DEC17KENNMTU,Who will win the game between Kennesaw State and Middle Tennessee?,"Middle Tennessee, Kennesaw St.",Middle Tennessee
+KXNCAAMBGAME-25DEC17HCUNICH,Who will win the game between Houston Christian and Nicholls State?,"Nicholls St., Houston Christian",Nicholls St.
+KXNCAAMBGAME-25DEC17CLEVUAB,Who will win the game between Cleveland State and UAB?,"UAB, Cleveland St.",UAB
+KXNHLTOTAL-25DEC17WPGSTL,What will be the total number of goals scored in the Winnipeg vs St. Louis game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLTOTAL-25DEC17CARNSH,How many total goals will be scored in the Carolina vs Nashville game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 3.5 goals scored
+KXNHLSPREAD-25DEC17WPGSTL,Will Winnipeg or St. Louis win by over 1.5 or 2.5 goals?,"Winnipeg wins by over 2.5 goals, Winnipeg wins by over 1.5 goals, St. Louis wins by over 2.5 goals, St. Louis wins by over 1.5 goals",Winnipeg wins by over 1.5 goals
+KXNHLSPREAD-25DEC17CARNSH,Which team will win and by how many goals?,"Nashville wins by over 2.5 goals, Nashville wins by over 1.5 goals, Carolina wins by over 2.5 goals, Carolina wins by over 1.5 goals",Nashville wins by over 1.5 goals
+KXNHLGAME-25DEC17WPGSTL,Who will win the game between Winnipeg and St. Louis?,"WPG Jets, STL Blues",WPG Jets
+KXNHLGAME-25DEC17CARNSH,Who will win the game between the Carolina Hurricanes and the Nashville Predators?,"NSH Predators, CAR Hurricanes",CAR Hurricanes
+KXNCAAWBGAME-25DEC17UNLVGC,Who will win the game between UNLV and Grand Canyon?,"UNLV, Grand Canyon",UNLV
+KXNCAAWBGAME-25DEC17UNCWUNC,Who will win the game between UNC Wilmington and North Carolina?,"UNC Wilmington, North Carolina",North Carolina
+KXNCAAWBGAME-25DEC17DEPUIC,Who will win the basketball game between DePaul and UIC?,"UIC, DePaul",DePaul
+KXNCAAWBGAME-25DEC17AFAUSU,Who will win the game between Air Force and Utah State?,"Utah St., Air Force",Utah St.
+KXNCAAMBGAME-25DEC17WEBUVU,Who will win the game between Weber State and Utah Valley?,"Weber St., Utah Valley",Utah Valley
+KXNCAAMBGAME-25DEC17USFALA,Who will win the game between South Florida and Alabama?,"South Florida, Alabama",Alabama
+KXNCAAMBGAME-25DEC17JMUODU,"Which team will win, James Madison or Old Dominion?","Old Dominion, James Madison",James Madison
+KXNCAAMBGAME-25DEC17DAKSSDAK,Who will win the game between Dakota State and South Dakota?,"South Dakota, Dakota St.",South Dakota
+KXNCAAMBGAME-25DEC17COOKSLU,Which team will win the game between Bethune-Cookman and Saint Louis?,"Saint Louis, Bethune-Cookman",Saint Louis
+KXNCAAMBGAME-25DEC17AAMUMISS,Who will win the game between Alabama A&M and Ole Miss?,"Ole Miss, Alabama A&M",Ole Miss
+KXNBAGAME-25DEC17MEMMIN,Who will win the game between Memphis and Minnesota?,"Minnesota, Memphis",Minnesota
+KXNBAGAME-25DEC17CLECHI,Who will win the game between Cleveland and Chicago?,"Cleveland, Chicago",Chicago
+KXNCAAWBGAME-25DEC17SJSUWYO,Who will win the game between San Jose State and Wyoming?,"Wyoming, San Jose St.",Wyoming
+KXNCAAMBGAME-25DEC17GTWNMARQ,Who will win the game between Georgetown and Marquette?,"Marquette, Georgetown",Marquette
+KXNCAAMBGAME-25DEC17ARSTTXST,Who will win the football game between Arkansas State and Texas State?,"Texas St., Arkansas St.",Arkansas St.
+KXNCAAFTOTAL-25DEC17ULLDEL,How many total points will be scored in the Louisiana at Delaware game?,"Over 70.5 points scored, Over 67.5 points scored, Over 64.5 points scored, Over 61.5 points scored, Over 58.5 points scored, Over 55.5 points scored, Over 52.5 points scored, Over 49.5 points scored, Over 46.5 points scored",Over 64.5 points scored
+KXNCAAFSPREAD-25DEC17ULLDEL,Which team will win and by how many points?,"Louisiana wins by over 9.5 points, Louisiana wins by over 7.5 points, Louisiana wins by over 6.5 points, Louisiana wins by over 3.5 points, Louisiana wins by over 2.5 points, Louisiana wins by over 17.5 points, Louisiana wins by over 14.5 points, Louisiana wins by over 13.5 points, Louisiana wins by over 10.5 points, Delaware wins by over 9.5 points, Delaware wins by over 7.5 points, Delaware wins by over 6.5 points, Delaware wins by over 3.5 points, Delaware wins by over 2.5 points, Delaware wins by over 14.5 points, Delaware wins by over 13.5 points, Delaware wins by over 10.5 points",Louisiana wins by over 7.5 points
+KXNCAAFGAME-25DEC17ULLDEL,Who will win the game between Louisiana and Delaware?,"Louisiana, Delaware",Louisiana
+KXNCAAWBGAME-25DEC17UCRVUTAH,Who will win the game between UC Riverside and Utah?,"Utah, UC Riverside",Utah
+KXNCAAWBGAME-25DEC17SDAKPEPP,Who will win the game between South Dakota and Pepperdine?,"South Dakota, Pepperdine",South Dakota
+KXNCAAWBGAME-25DEC17NWSTTEX,Who will win the game between Northwestern State and Texas?,"Texas, Northwestern St.",Texas
+KXNCAAWBGAME-25DEC17BSUUNM,Who will win the game between Boise State and New Mexico?,"New Mexico, Boise St.",Boise St.
+KXNCAAMBGAME-25DEC17UTSAUSC,Who will win the game between UTSA and USC?,"UTSA, USC",USC
+KXNCAAMBGAME-25DEC17UNTSCU,Who will win the game between North Texas and Santa Clara?,"North Texas, Santa Clara",North Texas
+KXNCAAMBGAME-25DEC17SEAUCD,Who will win the match between Seattle and UC Davis?,"UC Davis, Seattle",Seattle
+KXNCAAMBGAME-25DEC17PRSTCOLO,Who will win the game between Portland State and Colorado?,"Portland St., Colorado",Colorado
+KXNCAAMBGAME-25DEC17MTMONT,Who will win the game between Montana Tech and Montana?,"Montana Tech, Montana",Montana
+KXNCAAMBGAME-25DEC17CAMPGONZ,Who will win the game between Campbell and Gonzaga?,"Gonzaga, Campbell",Gonzaga
+KXNCAAMBGAME-25DEC17AMCCSFA,Who will win the game between Texas A&M-Corpus Christi and Stephen F. Austin?,"Stephen F. Austin, Texas A&M-Corpus Christi",Stephen F. Austin
+KXNCAAWBGAME-25DEC17SDSUFRES,Who will win the game between San Diego State and Fresno State?,"San Diego St., Fresno St.",San Diego St.
+KXNCAAWBGAME-25DEC17CSUNEV,Who will win the game between Colorado State and Nevada?,"Nevada, Colorado St.",Colorado St.
+KXNHLTOTAL-25DEC17NJVGK,How many total goals will be scored in the New Jersey vs Vegas game?,"Over 7.5 goals scored, Over 6.5 goals scored, Over 5.5 goals scored, Over 4.5 goals scored, Over 3.5 goals scored",Over 5.5 goals scored
+KXNHLSPREAD-25DEC17NJVGK,Will Vegas or New Jersey win by over 1.5 or 2.5 goals?,"Vegas wins by over 2.5 goals, Vegas wins by over 1.5 goals, New Jersey wins by over 2.5 goals, New Jersey wins by over 1.5 goals",Vegas wins by over 1.5 goals
+KXNHLGAME-25DEC17NJVGK,Which team will win the game between the New Jersey Devils and the Vegas Golden Knights?,"VGK Golden Knights, NJ Devils",VGK Golden Knights
+KXNCAAWBGAME-25DEC17SEAPRST,Who will win the game between Seattle and Portland State?,"Seattle, Portland St.",Seattle
+MOON,Will NASA land a person on the Moon before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXUSDCMIN-25DEC31,Will USDC lose its peg?,"Yes, Not Yes",Not Yes
+KXUSCOLOMBIAFTA-25,Will the US-Colombia FTA investor state clause be formally amended before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXTRUMPOUT-26,Will Donald Trump be out this year?,"Donald Trump, Not Donald Trump",Not Donald Trump
+KXRANKLISTSUI-25DEC,Will SUI be in the top 10 cryptocurrencies by market capitalization?,"SUI, Not SUI",Not SUI
+KXELONATTEND-25,Will Elon Musk attend any UFC event?,"Elon Musk, Not Elon Musk",Not Elon Musk
+KXCOVVHC-24NOV05,"Will the CDC identify any variant of high consequence by December 31, 2025?","Reported, Not Reported",Not Reported
+KXCEOUSSTEEL-25,Will the CEO of United States Steel Corp leave during the year 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOROBLOX-25,Will the CEO of Roblox leave the company in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOPFE-25,Will the CEO of Pfizer Inc leave the company in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOMRNA-25,Will the CEO of Moderna Inc leave the company in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOMETA-25,Will the CEO of Meta Platforms Inc leave the company in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOINTC-25,Will the CEO of Intel Corp leave the company in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOGS-25,Will the CEO of Goldman Sachs Group Inc leave at any time in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCEOCLUELY-25,Will the CEO of Cluely leave during the year 2025?,"In 2025, Not In 2025",Not In 2025
+KXXRPMAXATH-26JAN01,Will XRP reach its all-time high price of $3.84 or higher this year?,"Above $3.84, Not Above $3.84",Not Above $3.84
+KXRANKLISTASTER20-26JAN,Will Aster be among the top 20 crypto tokens by market cap?,"Aster, Not Aster",Not Aster
+KXNBLGAME-25DEC18ILLAMEL,Which team will win the game between Melbourne United and Illawarra Hawks?,"Melbourne United, Illawarra Hawks",Melbourne United
+KXNBLGAME-25DEC18SEMPER,Who will win the game between the Perth Wildcats and SE Melbourne Phoenix?,"SE Melbourne Phoenix, Perth Wildcats",Perth Wildcats
+KXCBAGAME-25DEC18ZHEFST,Who will win the game between the Fujian Sturgeons and the Zhejiang Lions?,"Zhejiang Lions, Fujian Sturgeons",Zhejiang Lions
+KXCBAGAME-25DEC18ZGBSHAX,Who will win the game between Shanxi Loongs and Zhejiang Golden Bulls?,"Zhejiang Golden Bulls, Shanxi Loongs",Zhejiang Golden Bulls
+KXCBAGAME-25DEC18XINBRF,Who will win the game between Beijing Royal Fighters and Xinjiang Flying Tigers?,"Xinjiang Flying Tigers, Beijing Royal Fighters",Xinjiang Flying Tigers
+KXCBAGAME-25DEC18TIAJIL,Who will win the game between the Jilin Northeast Tigers and the Tianjin Pioneers?,"Tianjin Pioneers, Jilin Northeast Tigers",Jilin Northeast Tigers
+KXCBAGAME-25DEC18NANQIN,Who will win the game between the Qingdao Eagles and the Nanjing Monkey Kings?,"Qingdao Eagles, Nanjing Monkey Kings",Nanjing Monkey Kings
+KXCBAGAME-25DEC18LEONIN,Who will win the game between Ningbo Rockets and Shenzhen Leopards?,"Ningbo Rockets, Shenzhen Leopards",Shenzhen Leopards
+KXCRICKETT20IMATCH-25DEC17SAIND,Who will win the match between India and South Africa?,"South Africa, India",India
+KXNOBELPEACE-26,Who will win the Nobel Peace Prize?,"Volodymyr Zelenskyy, Sudan’s Emergency Response Rooms (ERRs), Narges Mohammadi, International Court of Justice (ICJ), Francesca Albanese, European Union, Elon Musk, Doctors Without Borders (Médecins Sans Frontières), Donald Trump, Centre for Humanitarian Dialogue",Narges Mohammadi
+WTAX-25,Will a tax on unrealized capital gains become law before 2026?,"Becomes law Before 2026, Fails to become law Before 2026",Fails to become law Before 2026
+ROBOTAXIOUT-26,"Will Tesla release a robotaxi to the public before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+NPRDEFUND-25,Will Congress defund NPR before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXZERORATE-2025,Will interest rates reach zero at any time during 2025?,"In 2025, Not In 2025",Not In 2025
+KXWTO-26,Will Trump try to leave the WTO before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXWHVISIT-26,Will any of these individuals visit the White House this year?,"Joe Rogan, Jake Paul, Dana White",Joe Rogan
+KXWHVISIT-26JAN,"Who will visit the White House before Jan 1, 2026?","Vladimir Putin, Taylor Swift, Shedeur Sanders, :: Diddy, Sabrina Carpenter, Stephen A. Smith, Ross Ulbricht, :: Robert Francis Prevost, Patrick Mahomes, Michael Saylor, Lebron James, :: Ye, Kim Kardashian, Kim Jong Un, Joe Rogan, :: MrBeast, Gavin Newsom, Deion Sanders, Dave Portnoy, :: Governor of Georgia, :: Drake",Taylor Swift
+KXWHCOS-26,"Will Susie Wiles be Trump's Chief of Staff on Jan 1, 2026?","On Jan 1, 2026, Not On Jan 1, 2026","Not On Jan 1, 2026"
+KXWHBRIEFINGEY-26,Will Eliezer Yudkowsky be mentioned in the White House Briefing Room before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXWHBRIEFINGAIRISK-26,Will existential AI risk be mentioned in the White House Briefing Room before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXWAPOWHBAN-25,Will The Washington Post be banned from White House press briefings in 2025?,"In 2025, Not In 2025",Not In 2025
+KXVPBREAKS-25DEC31,Will J.D. Vance cast a specific number of tie-breaking votes in the Senate in 2025?,"9, 8, 7, 10",9
+KXVOTERECNCH-26,Who will vote for the next budget reconciliation bill?,"Warren Davidson, Tim Burchett, Mike Lawler, Mark Harris, Keith Self, Eric Burlison, Andy Ogles, Andy Harris, Andrew Clyde, Andy Biggs",Warren Davidson
+KXVOTERECISSION-26,Which senators will vote for the budget rescission bill?,"Todd Young, Tommy Tuberville, Tim Scott, Ted Cruz, Susan Collins, Roger Wicker, Rick Scott, Rand Paul, Ron Johnson, Mitch McConnell, Mike Lee, Mike Crapo, Lisa Murkowski, Lindsey Graham, John Thune, Josh Hawley, Joni Ernst, John Cornyn, Dan Sullivan, Bill Cassidy",Mitch McConnell
+KXVOTEMEANS-26,Who will Todd Young vote for?,"Todd Young, Thom Tillis, Ted Cruz, Susan Collins, Rand Paul, Mitch McConnell, Lisa Murkowski, James Lankford, John Fetterman, Joni Ernst, John Curtis, David McCormick, Chuck Grassley, Bill Cassidy",Ted Cruz
+KXVINE-25,Will X re-launch Vine before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXVETOOVERRIDE-26JAN01,"Will Congress override a Trump veto before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXVETOCOUNT-26,"How many bills will Trump veto before January 1, 2026?","At least 5, At least 3, At least 1",At least 1
+KXVACCINEWRFK-26,Will RFK end any vaccine approvals before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXVACCINERECS-26,Will the CDC end its recommendation for any vaccine listed here?,"Zoster (Shingles), Yellow Fever, Varicella (Chickenpox), Tick-Borne Encephalitis, Typhoid, RSV, Rotavirus, Rabies, Pneumococcal, Polio, Orthopoxviruses (Smallpox and Mpox), MMRV, Measles, mumps, and rubella, Meningococcal, Japanese Encephalitis, HPV, Hib, Hepatitis B, Hepatitis A, Influenza, Ebola, DTaP/Tdap/Td, DTaP-IPV-Hib-HepB, Dengue, COVID-19, Cholera, Anthrax",COVID-19
+KXVACCINEREC-26,"Will the CDC end its recommendation for any vaccine before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXUSPS-26,Will Trump privatize the post office before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXUSMCA-26,Will Trump try to leave the USMCA before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXUSAIRANAGREEMENT-26,Will the US agree to a new Iranian nuclear deal before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXUSAF1-25,Will a 4th USA Formula 1 race be announced in 2025?,"In 2025, Not In 2025",Not In 2025
+KXUKRIMPEACH-26,Will Zelenskyy be removed from office by the Ukrainian parliament before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXUKRAINERESIGN-26,"Will Volodymyr Zelenskyy resign before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXUKPMLEAVE-26,"Will the U.K. Prime Minister leave office before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXUKELECTIONCALL-26,"Will a new U.K. election be called before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXUFSD-25,Will Tesla launch unsupervised full self-driving to the public before January 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXTYLENOLSUE-26,"Will Kenvue sue Donald Trump, the United States government, or anyone associated with the Trump administration before 2026?","Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXTVSEASONRELEASEOUTBANKS,When will Outer Banks Season 5 be released?,"Before Jan 2026, Not Before Jan 2026",Before Jan 2026
+KXTVSEASONRELEASEHARRYPOTTER,When will the first season of the Harry Potter TV series be released?,"Before Jan 2026, Not Before Jan 2026",Before Jan 2026
+KXTURKEYTERMLIMITS-25,Will Erdoğan repeal presidential term limits in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTRYFIREPOWELL-26JAN01,Will Trump try to fire Jerome Powell this year?,"Yes, Not Yes",Not Yes
+KXTRUMPUFC-26JAN01,Will the person attend another numbered UFC event this year?,"Yes, Not Yes",Not Yes
+KXTRUMPTBPN-01,Will Donald J. Trump be on TBPN before January 2026?,"Donald J. Trump, Not Donald J. Trump",Donald J. Trump
+KXTRUMPSAYNICKNAME-26JAN01,"Which nickname will Trump say before January 1, 2026?","Zohran The Moron / Moron Zohran, Slopadopolous, Rocket Man, Pocahontas, Piggy, Newscum, Low Energy, Little Communist, Fake Tapper, Crooked Hillary, Crazy Bernie, Comrade Kamala, Biden Crime Family",Rocket Man
+KXTRUMPSAYMONTH-26JAN01,"Will Trump say any of the following words or phrases before January 1, 2026? Turning Point, TrumpRX, Third Term, Taylor Swift, Stimulus, Nine War, Newscum, Moscow, Marijuana/Weed/Cannabis, Fat Slob, Fat shot/Ozempic, Epstein, Crypto/Bitcoin, or Autism?","Turning Point, TrumpRX / TrumpRX.com, Third Term, Taylor Swift, Stimulus, Nine War, Newscum, Moscow, Marijuana / Weed / Cannabis, Fat Slob, Fat shot / Ozempic, Epstein, Crypto / Bitcoin, Autism",Turning Point
+KXTRUMPPUTIN2-26JAN01,Will Trump meet with Vladimir Putin before 2026?,"Vladimir Putin, Not Vladimir Putin",Not Vladimir Putin
+KXTRUMPPOW-26,Will Trump sue Powell before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXTRUMPPARDON-26JAN01,"Who will President Trump pardon before January 1, 2026?","Young Thug, YNW Melly, :: aka Tay-K, Tiger King, Sam Bankman-Fried, Steve Bannon, Roger Ver, Elon Musk, Michael Cohen, Justin Sun, Joe Biden, Julian Assange, Hunter Biden, Ghislaine Maxwell, Edward Snowden, Elizabeth Holmes, Eric Adams, :: aka Lil Durk, Do Kwon, Himself, Diddy, Derek Chauvin, :: aka Tory Lanez, Bob Menendez",Steve Bannon
+KXTRUMPOFFICIAL-26JAN01,Will Curtis Sliwa join the Trump Administration?,"Curtis Sliwa, Not Curtis Sliwa",Not Curtis Sliwa
+KXTRUMPFIRE-26,How many Cabinet members will Trump fire before 2026?,"9, 8, 7, 6, 5, 4, 3, 2, 1, 0",0
+KXTRUMPFIRE-25,How many Cabinet members will Trump fire before 2026?,"9, 8, 7, 6, 5, 4, 3, 2, 1, 0",4
+KXTRUMPENDORSE-26JAN01,"Who will Donald Trump endorse in any statewide political race before January 1, 2026?","Winsome Earle-Sears, Ken Paxton, John Cornyn",Ken Paxton
+KXTRUMPCANBAN-26,Will Trump be banned from entering Canada before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXTRUMPBBC-26,Will Donald Trump sue the British Broadcasting Corporation (BBC) before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXTREASBLOCKCHAIN-26,Will the Treasury have any transactions on the blockchain before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXTOURTAYLORSWIFT-26,Will Taylor Swift announce a new tour in 2026?,"In 2026, Not In 2026",In 2026
+KXTOURJUSTINBIEBER-26,Will Justin Bieber announce a new tour in 2026?,"In 2026, Not In 2026",Not In 2026
+KXTOURJOJI-26,Will JOJI announce a new tour in 2025?,"In 2025, Not In 2025",In 2025
+KXTOURDRAKE-26,Will Drake announce a new tour before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXTOPAI-26,Which company will have a top-ranked AI model before 2026?,"Zhipu AI, Nvidia, Moonshot AI, Meta, Mistral, Deepseek, Anthropic, Alibaba, 01A1",Anthropic
+KXTHUNEOUT-25,Which party leaders will be out this year?,"John Thune, Not John Thune",Not John Thune
+KXTESLATARIFF-26,Will any country impose tariffs on Tesla products before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXTESLAMOTORCADE-25,Will a Tesla vehicle be included in the presidential motorcade during 2025?,"In 2025, Not In 2025",Not In 2025
+KXTESLAGAS-25,Will Tesla announce a gas car in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTEFILLIN-25,Will Yossi Farro wrap tefillin with Mark Zuckerberg in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTAXWAIVE-26,Will Trump end income tax for people earning under $150k before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXTAXAPP-26,"Will Elon create a new, free tax filing app before 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXTARREBATE-26JAN,"Will a bill for tariff rebate checks become law before January 1, 2026?","A bill for tariff rebate checks, Not A bill for tariff rebate checks",A bill for tariff rebate checks
+KXTARIFFCOUNTRY-26JAN01,"Will Trump impose tariffs on Germany, Denmark, or Colombia in the first 100 days?","Germany, Denmark, Colombia",Germany
+KXSYRIA-26,"Will the US reopen its embassy in Syria before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXSWEBENCH-26,How high will AI models score on SWE-Bench before 2026?,"At least 90%, At least 80%",At least 90%
+KXSURGEON-26,When will Trump's nominee for Surgeon General be confirmed?,"Before Jan 2026, Not Before Jan 2026",Before Jan 2026
+KXSUBWAY-26,"Will NYC subway ridership reach either 90% or 100% of the pre-Covid average before Jan 1, 2026?",":: 100% of the 2019 average, :: 90% of the 2019 average",:: 90% of the 2019 average
+KXSUBPOENAATTEND-26,Who will attend depositions related to the House Oversight Committee subpoena on Jeffrey Epstein?,"Robert Mueller, Merrick Garland, Loretta Lynch, Jeff Sessions, James Comey, Hillary Clinton, Eric Holder, Bill Clinton, Alberto Gonzales",Bill Clinton
+KXSTOPWORK-26,Which government department will Trump and DOGE order to stop working?,"FEMA, EPA, Department of Education",EPA
+KXSTARSHIPSPACE-25,How many Starship launches will reach space in 2025?,"7 to 9, 4 to 6, 3 or below, 25 or above, 22 to 24, 19 to 21, 16 to 18, 13 to 15, 10 to 12",7 to 9
+KXSSDELAY-26,Will delays in social security payments be reported before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXSRIRAM-26,Will Sriram Krishnan leave the White House before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXSPRMIN-26,"Will the Strategic Petroleum Reserve (SPR) be below or not below 300 million barrels before January 1, 2026?","Below 300 million barrels, Not Below 300 million barrels",Below 300 million barrels
+KXSPOTIFYALBUMRELEASEDATEDRAKE-26JAN01,"Will Drake release the album Iceman before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXSPOTIFYALBUMRELEASEDATEBABYBOI,"Will Playboi Carti release BABY BOI before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXSOTHLEAVE-26,Will Mike Johnson remain Speaker of the House through 2025?,"Before 2026, Not Before 2026",Before 2026
+KXSOLANAATH-26JAN01,"Will the spot price of Solana be above $294.096 before January 1, 2026 at 10:00 AM Eastern Time?","above $294.096, Not above $294.096",Not above $294.096
+KXSNAPPRESTURKEY-25,Will a new presidential election be scheduled in Turkey in 2025?,"In 2025, Not In 2025",Not In 2025
+KXSENMAJLEAVE-26,Will John Thune stop being Senate Majority Leader before 2026?,"Yes, Not Yes",Not Yes
+KXSENATELAWSUIT-26JAN01,"Will the specified proposal become law before January 1, 2026?","Yes, Not Yes",Yes
+KXSECSTATEVISIT-26,"Will the Secretary of State visit Russia, China, or Denmark before 2026?","Russia, China, Denmark",China
+KXSCOTUSCERT-26JAN,Which of the following cases will the Supreme Court agree to hear before January 2026?,":: Video privacy suits over tracking data, :: Roundup warnings, EPA versus states, :: Standard for terminating institutional-reform injunctions, :: Prayer over loudspeaker at state event, :: Religious accommodation versus state rules, :: Damages for refusing same-sex marriage licenses, :: Scope/limits of plea appeal-waivers, :: Troops suing for service injuries",:: Video privacy suits over tracking data
+KXSANCTIONRUSSIA-26JAN01,Will a Russian sanctions bill become law in 2025?,"Yes, Not Yes",Not Yes
+KXROGANGUEST-26JAN01,"Will Zohran Mamdani go on the Joe Rogan Experience before Jan 1, 2026?","Zohran Mamdani, Vivek Ramaswamy, Thomas Massie, Tulsi Gabbard, Taylor Swift, Sam Altman, Ross Ulbricht, Rand Paul, Michael Saylor, Kanye West, Kamala Harris, Jason Calacanis, Jeff Bezos, Joe Biden, Hunter Biden, Hillary Clinton, Hailey Welch, David Sacks, Donald Trump, Barack Obama, Bill Ackman, Alex Jones",Zohran Mamdani
+KXROGANBOARD-26,Will Joe Rogan join the board of a public company before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXRESCISSIONBILL-26-2,Will Congress approve a budget rescission request by Trump before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXRECCOUNT-25,Will 5 reconciliation bills be passed in the year 2025?,"5, 4, :: Record for most bills passed in one year, :: Tied for most bills passed in one year, :: Bills passed in Trump's first year (2017)",:: Record for most bills passed in one year
+KXRECAPGAINS-26JAN,"Will a bill eliminating capital gains tax on home sales become law before January 1, 2026?","A Bill eliminating Capital Gains Tax on Home Sales, Not A Bill eliminating Capital Gains Tax on Home Sales",Not A Bill eliminating Capital Gains Tax on Home Sales
+KXRECALLNEWSOM-26,"Will there be a recall election for Gavin Newsom before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXRECALLBASS-26,"Will there be a recall election for Karen Bass before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXRAWMILKBAN-26,Will the raw milk ban be ended this year?,"Before 2026, Not Before 2026",Before 2026
+KXRANKLISTTIMEMAG-26JAN,Who will be on TIME’s Person of the Year 2025 shortlist?,"Zohran Mamdani, Yulia Navalnaya, Yoshua Bengio, Yann LeCun, Xi Jinping, Volodymyr Zelenskyy, Vladimir Putin, Ursula von der Leyen, Taylor Swift, Sundar Pichai, Shohei Ohtani, Scott Bessent, Sanae Takaichi, Sam Altman, Ryan Coogler, Robert F. Kennedy Jr., Pope Leo XIV, Pete Hegseth, Peter Thiel, Mustafa Suleyman, Marjorie Taylor Greene, María Corina Machado, Mark Zuckerberg, Maggie Kang, Lisa Su, LeBron James, Kendrick Lamar, Keir Starmer, Karoline Leavitt, Joe Rogan, Jerome Powell, Jensen Huang, JD Vance, Javier Milei, Jared Kushner, Ilya Sutskever, Giorgia Meloni, Geoffrey Hinton, Elon Musk, Donald Trump, Demis Hassabis, Dario Amodei, Cynthia Erivo, Claudia Sheinbaum Pardo, Christine Lagarde, ChatGPT, Charlie Kirk, Benjamin Netanyahu, Bad Bunny, Ariana Grande, Alex Karp, AI",Volodymyr Zelenskyy
+KXRANKLISTBONK50-26JAN,Will BONK be among the Top 50 crypto tokens by market capitalization?,"BONK, Not BONK",Not BONK
+KXPRESVISIT-26,"Will Trump visit any of the listed countries, including the Vatican, in the first year?",":: After May 17, Vietnam, Ukraine, Turkey, Singapore, South Africa, Russia, Taiwan, :: After July 22, China, Peru, Palestine, Pakistan, Poland, North Korea, Mexico, Ireland, India, Hungary, France, Germany, Denmark, Brazil, Belgium, Australia, Argentina",":: After May 17, Vietnam, Ukraine, Turkey, Singapore, South Africa, Russia, Taiwan, :: After July 22, China, Peru, Palestine, Pakistan, Poland, North Korea, Mexico, Ireland, India, Hungary, France, Germany, Denmark, Brazil, Belgium, Australia, Argentina"
+KXPRESLEAVETUR-26,"Will the TR President leave office before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXPRESLEAVEFR-26,"Will the FR President leave office before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXPRESLEAVEBR-26,"Will the BR President leave office before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXPRESADJOURN-26,"Will Trump adjourn the Senate before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXPRCBTC-26,Will Bitcoin be legalized in China before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXPOST-26,Will Jeff Bezos sell the Washington Post before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXPOLIOWITHDRAW-26,Will RFK revoke the polio vaccine before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXPOLIO-25,Will there be a case of polio in the USA in 2025?,"In 2025, Not In 2025",Not In 2025
+KXPARTYLEAVE-YEAR,Will anyone in Congress change parties?,"Yes, Not Yes",Yes
+KXPARTYLEADEROUT-25,Which of the following party leaders will leave their position this year?,"Kemi Badenoch, Geert Wilders, Chuck Schumer",Kemi Badenoch
+KXPARLIAMENTARIAN-26,"Will the Senate overrule the parliamentarian on budget reconciliation before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXPALNYT-26,Will Palantir sue the New York Times before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXOAIMSFT-26,Will Open AI sue Microsoft before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXNYSECIRCUIT-26,Will a NYSE marketwide circuitbreaker occur before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXNYGOVDP-26,"Will Kathy Hochul pardon Daniel Penny before January 1, 2026?","Daniel Penny, Not Daniel Penny",Not Daniel Penny
+KXNPRCEOCHANGE-24,Will the NPR CEO leave their position before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXNOVOHIMS-26,Will Novo Nordisk sue Hims before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXNORDSTREAM2-26,"Will NordStream 2 enter service before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXNGUARDCITY-25,Which cities will Trump send the National Guard to in 2025?,"San Francisco, :: After Nov 3, New York City, Houston, Detroit, Chicago, Charlotte, Boston, Baltimore",New York City
+KXNGOTAX-26,"Will the Stop Terror-Financing and Tax Penalties on American Hostages Act become law before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXNEXTTONGAPM-26,Who will be the next Prime Minister of Tonga?,"Viliame Latu, Siaosi Sovaleni",Siaosi Sovaleni
+KXNEWROLEX-26JAN,Who will be the next CEO of X?,"Sheryl Sandberg, Sriram Krishnan, Sam Altman, Nikita Bier, Mahmoud Reza Banki, Marissa Mayer, John Legere, Jack Dorsey, :: MrBeast, Grok 4, Elon Musk",Sriram Krishnan
+KXNEWCOVIDVAX-26,Will the FDA approve a vaccine for the new coronavirus in 2024?,"Before 2026, Not Before 2026",Before 2026
+KXNEWCOINLAUNCH-26,Will any of the following individuals launch a new digital asset before 2026?,"Taylor Swift, Patrick Mahomes, :: aka Jimmy Donaldson, Kim Kardashian, Kamala Harris, Joe Rogan, Elon Musk, Donald J. Trump Jr., Cristiano Ronaldo, Bianca Censori",Elon Musk
+KXNDAABILL-26JAN01,"Will it become law before January 1, 2026?","Yes, Not Yes",Yes
+KXMUSKTRILLION,Will Elon Musk become a trillionaire before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXMUSKSPORTS-26,Will Elon Musk buy a major sports team before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXMUSKBLUESKY-26,"Will Elon Musk join Bluesky before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXMTGISRAEL-26JAN,"Will any bill that partially or completely halts military aid to Israel become law before January 1, 2026?","any bill that partially or completes halts military aid to Israel, Not any bill that partially or completes halts military aid to Israel",Not any bill that partially or completes halts military aid to Israel
+KXMPOXCASES-26JAN01,Will the seven-day average of Mpox cases reported to the CDC exceed certain thresholds?,"At least 50 average cases, At least 30 average cases, At least 100 average cases, At least 10 average cases",At least 10 average cases
+KXMODELHIGH-26,Which company or entity will be the first to hit 1500 on Chatbot Arena?,":: xAI, :: OpenAI, :: Google, :: DeepSeek, :: Anthropic",:: OpenAI
+KXMESSIRETIRE-26,Will Lionel Messi announce his retirement before the start of the 2026-27 regular season?,"Before the start of the 2026-27 regular season, Not Before the start of the 2026-27 regular season",Not Before the start of the 2026-27 regular season
+KXMELANIASUEHUNTER-26,Will Melania Trump sue Hunter Biden before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXMEDICARENEG-26,"Will Trump get rid of Medicare drug negotiation before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXMAXWELLTESTIFY-26JAN,Will Ghislaine Maxwell testify in front of Congress before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXMARALAGO-26,"Will any of the following people visit Mar-a-Lago before January 1, 2026?","Volodymyr Zelenskyy, Sam Altman, Mohammed bin Salman, Kim Kardashian, Kim Jong Un, Joe Biden, Jerome Powell, Jamie Dimon, Benjamin Netanyahu, Brittany Mahomes",Kim Kardashian
+KXMAG7BTC-DAY,Will one of the Magnificent 7 announce they are buying BTC before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXMACRONOWENS-26,Will the defamation case against Candace Owens be won before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXLLMCHESS-26,Will it be reported by what year that a large language model has beaten a grandmaster in chess?,"Before 2026, Not Before 2026",Before 2026
+KXLLAMA5-26,Will Meta release Llama 5 before January 2026?,"Before 2026, Not Before 2026",Before 2026
+KXLEONARDODICAPRIO-26,Will Leonardo DiCaprio be cast in the next Squid Game?,"Leonardo DiCaprio, Not Leonardo DiCaprio",Not Leonardo DiCaprio
+KXLEAVEADMIN-26,Will Tom Homan leave his position in the Trump Administration this year?,":: White House Border Czar, :: Director of National Intelligence, :: Secretary of Housing and Urban Development, :: Secretary of Transportation, :: Secretary of the Treasury, :: Director of the Office of Management and Budget, :: Secretary of Health and Human Services, :: Senior Counselor to the President for Trade and Manufacturing, :: Secretary of Defense, :: Attorney General, :: Secretary of State, :: Director of the White House Office of Science and Technology Policy, :: Administrator of the Environmental Protection Agency, :: Secretary of Education, :: Secretary of Labor, :: Director of the FBI, :: Secretary of Homeland Security, :: Administrator of the Small Business Administration, :: White House Press Secretary, :: Director of the Central Intelligence Agency, :: U.S. Trade Representative, :: Secretary of Commerce, :: Secretary of Veterans Affairs, :: Secretary of the Interior, :: Deputy Director of the FBI, :: Secretary of Energy, :: Secretary of Agriculture",:: White House Border Czar
+KXLEADEROUT-26,Which of these leaders will no longer be in their position by the end of this year?,"Xi Jinping, Volodymyr Zelenskyy, Vladimir Putin, Ursula von der Leyen, Shehbaz Sharif, Prabowo Subianto, Pedro Sanchez, Narendra Modi, Nicolás Maduro, Keir Starmer, Kim Jong Un, Benjamin Netanyahu, Ali Khamenei",Pedro Sanchez
+KXLEADERMEETPOPE-26,Who will Pope Leo XIV meet with before 2026?,"Xi Jinping, Vladimir Putin, Mark Carney, Friedrich Merz",Xi Jinping
+KXLARGECUT-25,Will the Federal Reserve cut interest rates by more than 25 basis points in 2025?,"In 2025, Not In 2025",In 2025
+KXKOSA-26,Will the Kids Online Safety Act become law before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXKNESSET-26,"Will the Israeli parliament be dissolved before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXKILLTONYGUEST-01,Will Joe Rogan be a guest on Kill Tony before January 2026?,"Joe Rogan, Not Joe Rogan",Not Joe Rogan
+KXKILLSWITCH-26,"Will California pass a law mandating AI models have a 'kill switch' before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXKIDSAFETY-26JAN,"Will the Kids Online Safety Act become law before January 1, 2026?","Kids Online Safety Act, Not Kids Online Safety Act",Not Kids Online Safety Act
+KXKAISPACE-26,Will Elon launch a rocket with Kai Cenat in it before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXJUDGES-26,Will the Judges Act become law before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXINSULINCAP-26,"Will Trump get rid of Biden's cap on insulin prices before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXINDIAX-26,"Will India ban X before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXINCOMETAXCUT-26JAN01,"Will the income tax for the highest earners be decreased before January 1, 2026?","Yes, Not Yes",Not Yes
+KXIMPEACHPENG-26,Will Paul Engelmayer be impeached before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXIMPEACHBOASBERG-26,Will Paul Engelmayer be impeached before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXIMPEACH,"Will the President be impeached before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXHOGGREMOVE,Will Trump be impeached and removed from office before his term ends?,"Before his term ends, Not Before his term ends",Not Before his term ends
+KXH5VACCINE-26,Will a new bird flu vaccine be approved before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXH5HUMAN-26JAN,Will the CDC or WHO confirm human-to-human transmission of H5 before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXGULFOFAMERICA-26,"Will H.R.276 - Gulf of America Act pass the Senate before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXGREENIND-26,Will Greenland vote for independence before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXGPTCOST-26,Will OpenAI increase the cost of ChatGPT before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXGOOGLEBREAKUP-26,"Will a court order Google to be broken up before January 1, 2026?","Jan 1, 2026, Not Jan 1, 2026","Not Jan 1, 2026"
+KXGATEBILL-26,"Will the S.929 - GATE Act of 2025 become law before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXGAMBLINGREPEAL-26JAN,"Will a bill that removes or changes the gambling tax provision related to OBBB become law before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXFUNDINGBILLS-26JAN01,"Will a bill funding government agencies through at least Dec 1, 2025 but not past Jan 1, 2026 become law before Jan 1, 2026?","December CR, Full-Year CR",December CR
+KXFTCANTITRUST-26,"Will the FTC launch an antitrust lawsuit against Nvidia or Microsoft before Jan 1, 2026?","Nvidia, Microsoft",Nvidia
+KXFTACOUNTRIES-26,"Will Trump make a new visit to any of the following countries before January 1, 2026?","Vietnam, Thailand, South Africa, Russia, Pakistan, Mexico, South Korea, Japan, Indonesia, India, Israel, United Kingdom, European Union, Cambodia, Canada, Brazil, Australia, Argentina",Mexico
+KXFRIMPEACH-26,"Will Macron be impeached before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXFRIDMAN-26JAN01,"Will Vivek Ramaswamy go on the Lex Fridman Podcast before Jan 1, 2026?","Vivek Ramaswamy, Vladimir Putin, Sam Altman, Kanye West, Kamala Harris, Joe Biden, Hillary Clinton, Donald Trump, David Sacks, Barack Obama, Bill Ackman",Vivek Ramaswamy
+KXFOREIGNTARIFF-26JAN01,Will Trump impose tariffs on any of the listed countries in the first 48 hours?,"Vietnam, Ukraine, United Kingdom, United Arab Emirates, Turkey, Taiwan, South Africa, South Korea, Singapore, Saudi Arabia, Russia, Poland, Peru, Palestine, Pakistan, North Korea, Mexico, Japan, Italy, Israel, Ireland, India, Hungary, Germany, France, European Union, Denmark, China, Canada, Brazil, Belgium, Australia, Argentina",China
+KXFLUORIDE-26,"Will the US government stop recommending fluoride in water before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXFLOP-26,How much compute will AI models be trained with?,"More than 750 billion petaFLOP, More than 500 billion petaFLOP",More than 750 billion petaFLOP
+KXFETTERMANSWITCH-26JAN,Will John Fetterman leave the Democratic Party before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXFESTIVALEVENTELONSAMA-26JAN01,"Will an Elon Musk vs Sam Altman boxing match happen before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXFEDGOVNOM-26,Who will Trump next nominate as Member of the Board of Governors of the Federal Reserve System?,"Scott Bessent, Rick Rieder, Michael Faulkender, Kevin Warsh, Kevin Hassett, Christopher Waller",Rick Rieder
+KXFDICELIM-26,Will the FDIC be eliminated before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXFDABANS-26,What will RFK's FDA ban?,"SSRIs, Seed oils, Aspartame",Aspartame
+KXFBUSTER-25DEC31,Will the filibuster be weakened by lowering the threshold before 2026?,"Threshold lowered, Not Threshold lowered",Threshold lowered
+KXEXPAND-26,"Will the U.S. control at least part of Greenland, Canada, or the Panama Canal before 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXEVERIFY-26,Will E-Verify be expanded before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXEUROZONE-26,Will a new country join the eurozone before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXESPMLEAVE-26,"Will the ES Prime Minister leave office before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXERS-26,"Will Trump create an ""External Revenue"" Service before 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXEPSTEIN-26,"Will Trump release any documents about Epstein's associates before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXELONSUEAPPLE-26,Will Elon Musk sue Apple before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXELECTUKRAINE-26,Will Ukraine hold a presidential election before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXECOWASBURKINA-25,Will the US agree to a new Iranian nuclear deal before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXDWARKESH-26JAN01,"Who will go on the Dwarkesh Podcast before January 1, 2026?","Zvi Mowshowitz, Yann LeCun, Tanner Greer, Sam Altman, Robert Caro, Noam Brown, Matt Levine, Michael Levin, Michael Dell, Jeff Bezos, Ilya Sutskever, Ian Morris, Helen Toner, George Hotz, Elon Musk, Barack Obama, Bill Gates, Ajeya Cotra, Amanda Askell",Sam Altman
+KXDRUGPRICEINSULIN-26,How much will the price of insulin fall this year?,":: $6.26, :: $5.57, :: $4.87, :: $3.48",:: $4.87
+KXDRAKESUIT-26,"Will Drake sue over ""Not Like Us"" before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXDOGESELL-26,Will DOGE sell the FBI headquarters before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDOGESAVINGS-26,How much money will DOGE claim to have saved this year?,"At least $500 billion, Not At least $500 billion",Not At least $500 billion
+KXDOED-26,"Will the Department of Education be eliminated before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXDJTMUSK-26,Will Trump sue Musk before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDJTMSNBC-26,Will Trump sue MSNBC before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDJTCNN-26,Will Trump sue CNN before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXDJTBTC-26,"Will Trump Media invest in any of the following before Jan 1, 2026: $TRUMP, Solana, or Ethereum?","$TRUMP, Solana, :: Known as Ethereum",$TRUMP
+KXDJTAOC-26,Will Trump sue AOC before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDIVTAX-26,Will the dividend tax rate be cut before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXDEMORAESIMPEACH-25,Will Alexandre de Moraes be impeached in 2025?,"In 2025, Not In 2025",Not In 2025
+KXDELAWAREINCORP-26,Will NVIDIA announce reincorporation outside of Delaware this year?,"NVIDIA, Netflix, Alphabet, Apple, Amazon",NVIDIA
+KXDEEPSEEKBAN-26,Will DeepSeek be banned in the United States before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDCEILEND-26,Will the debt ceiling be abolished before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXDANAWHITEFB-26,Will Dana White leave the board of Meta before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXDAILYGUESTMUSK-26JAN,Will the event happen before January 2026?,"Before Jan 2026, Not Before Jan 2026",Before Jan 2026
+KXCZWARREN-26,Will Changpeng Zhao sue Elizabeth Warren before January 2026?,"Before Jan 2026, Not Before Jan 2026",Not Before Jan 2026
+KXCRYPTOSTRUCTURE-26JAN,"Will crypto market structure become law before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXCRYPTORETURNY-25,Which of these cryptocurrencies will have a positive return in 2025?,"Ripple, Stellar Lumens, Shiba Inu, Litecoin, Chainlink, Ethereum, Polkadot, Dogecoin, Bitcoin",Bitcoin
+KXCRYPTOPERFORMY-25,Which cryptocurrency will perform the best in 2025?,"Ripple, Stellar Lumens, Shiba Inu, Litecoin, Chainlink, Ethereum, Polkadot, Dogecoin, Bitcoin",Ethereum
+KXCRYPTOEXEMP-26JAN,"Will a bill supporting a de minimis tax exemption for crypto trading become law before January 1, 2026?","Yes, Not Yes",Not Yes
+KXCRYPTOCAPGAIN-26,"Will eliminating capital gains taxes for at least some digital assets become law before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KXCRIMESEN-26,Will a Senator be charged with a crime before 2026?,"Yes, Not Yes",Yes
+KXCRIMECAB-26,Will a Cabinet member be charged with a crime before 2026?,"Yes, Not Yes",Not Yes
+KXCORPTAXCUT-26JAN01,"Will the corporate tax be decreased before January 1, 2026?","Yes, Not Yes",Not Yes
+KXCONTEMPT-25,Will any Trump political appointee be found in contempt of court before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXCONGRESSTESTIFY-26JAN,Will any of the listed people testify in front of Congress before Jan 2026?,"Jill Biden, John Brennan, Joe Biden, Elon Musk, Dave Portnoy, Sean Combs, Anthony Fauci",Joe Biden
+KXCONGRESSTARIFFVOTE-26,Which senator will vote for the Cantwell-Grassley Trade Review Act of 2025?,"Todd Young, Tommy Tuberville, Tim Scott, Ted Cruz, Susan Collins, Roger Wicker, Rick Scott, Rand Paul, Ron Johnson, Mitch McConnell, Mike Lee, Mike Crapo, Lisa Murkowski, Lindsey Graham, John Thune, Josh Hawley, Joni Ernst, John Cornyn, Dan Sullivan, Bill Cassidy",Susan Collins
+KXCONGRESSTARIFF-26,Will Congress pass a law increasing tariffs before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXCONGESTIONEND-25,Will congestion pricing in NYC end in 2025?,"In 2025, Not In 2025",In 2025
+KXCOMMENTTRUMPBADBUNNY-26JAN01,"Will Donald Trump publicly comment on Bad Bunny before January 1, 2026?","Before Jan 2026, Not Before Jan 2026",Before Jan 2026
+KXCODINGMODEL-26JAN,"Which AI company will have the best coding model on January 1, 2026?","xAI, OpenAI, Google, DeepSeek, Anthropic, Alibaba, AbacusAI",OpenAI
+KXCMEATBANUSA-26,"Will Trump ban lab-grown meat before January 1, 2026?","Yes, Not Yes",Not Yes
+KXCLOUDSEEDING-26,"Will TX SB1154 become law before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXCLAUDE5-26,Will Anthropic release Claude 5 before January 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXCHINATARIFF-26,"Will Trump impose 10% tariffs on China before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXCHIMAYORLEAVE-26,"Will Brandon Johnson leave the position of Mayor of Chicago before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCHICKENVAX-25,Will the United States create a chicken vaccination program in 2025?,"In 2025, Not In 2025",Not In 2025
+KXCHANCELEAVE-26,Will the UK Chancellor leave office before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXCFPBELIM-26,"Will the CFPB be eliminated before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCEOYCOMB-26,"Will the CEO of Y Combinator leave before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCEOTWITCH-26,"Will the CEO of Twitch leave before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCEOTARGET-26,"Will the CEO of Target leave before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCEOAMAZON-26,"Will the CEO of Amazon leave before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCDCTRAVELH5-26,Will the CDC recommend delaying non-essential travel due to the H5 bird flu?,"Yes, Not Yes",Not Yes
+KXCCLIMIT-26,Will credit card rates be capped before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXCARRIED-26,"Will a bill closing the carried interest loophole become law before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXCABLEAVE-25,Will any member of Trump's Cabinet leave office before January 2026?,"Before 2026, Not Before 2026",Before 2026
+KXCABCHANGE-26,How many members of Trump's first Cabinet will leave?,"9, 8, 7, 6, 5, 4, 3, 25, 24, 23, 22, 21, 20, 2, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 1, 0",9
+KXBTCRESERVESTATES-26,Which states will create crypto reserves this year?,"Wyoming, Utah, South Dakota, Oklahoma, Ohio, North Dakota, Montana, Kentucky, Florida, Alabama",Wyoming
+KXBTCRESERVECOUNTRY-25,How many countries will create cryptocurrency reserves in 2024?,"6 or above, 5, 4, 3, 2, 1, 0",0
+KXBTCRESERVE-26,"Will Trump create a National Bitcoin Reserve before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXBLOCKH1B-26JAN01,"Will federal courts block Trump's September 19th proclamation regarding H-1B visas before Jan 1, 2026?","Yes, Not Yes",Not Yes
+KXBESTLLMOS-26,"Will an open-source AI model become the number one AI model, and if so, by when?","Before 2026, Not Before 2026",Before 2026
+KXBESTLLMCHINA-26,Will a Chinese AI model become the number one AI model before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXBERNIEENDORSE-26JAN01,"Who will Bernie Sanders endorse in any statewide race before Jan 1, 2026?","Zach Wahls, Omar Fateh, Dan Osborn, Alan Grayson",Alan Grayson
+KXBATHROOM-26,"Will Nancy Mace's bathroom ban in the House happen before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXBANXUS-26,Will the United States ban X before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXBANXUK-26,Will the U.K. ban X before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXBANXGER-26,Will Germany ban X before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXBALANCESHEET-26,"Will the Fed's balance sheet shrink to below a specified threshold before Jan 1, 2026?","6.5 trillion, 6 trillion",6 trillion
+KXAUSTRIANATO-25,Will the US agree to a new Iranian nuclear deal before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXARTISTCOLLABYEMIKEDEAN-30,Will Ye / Kanye West and Mike Dean make a song together before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXARTISTCOLLABTHUGANDGUNNA-30,Will Young Thug and Gunna make a song together before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXARTISTCOLLABTATEMCRAETHAKIDLAROI-26,Will Tate McRae and The Kid LAROI make another song together before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXARTISTCOLLABSZANICKIMINAJ-26,Will Nicki Minaj and SZA have a son together before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXARTISTCOLLABDRAKEPLAYBOICARTI-26,Will Drake and Playboi Carti have a son together before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXARTISTCOLLABDRAKEMINAJ-26,Will Drake and Nicki Minaj have a son before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXARIMPEACH-26,Will Javier Milei be impeached before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXANDYBYRONCOLDPLAY-26,Will Andy Byron sue Coldplay before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXALTMANEQUITY-26,"Will Sam Altman be granted an equity stake in OpenAI before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Before Jan 1, 2026"
+KXALIENS-26,Will the U.S. confirm that aliens exist before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXAISPIKE-26,"Will any AI model reach at least a 1500 ELO rating before January 1, 2026?","At least 1600 elo score, At least 1550 elo score, At least 1500 elo score",At least 1500 elo score
+KXAISONG-26,Will an AI generated song appear on the Billboard Hot 100 before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXAIRELEASE-26,Will any major AI company announce that they will stop releasing their best AI models to the public before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXAFRICAF1-26,Will there be an African F1 Grand Prix before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXACASUBSIDYBILL-26JAN01,Will the House pass a bill to extend Obamacare subsidies before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXACAREPEAL-26,"Will Obamacare be repealed before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXACAHSAFSA-26JAN01,"Will a bill allowing eligible individuals enrolled in Affordable Care Act Marketplace plans to have their enhanced federal premium tax credits paid into a health flexible spending arrangement (FSA) or health savings account (HSA) become law before January 1, 2026?","Yes, Not Yes",Not Yes
+KXACAEXT-26JAN,"Will legislation extending enhanced ACA premium tax credits become law before January 1, 2026?","Before 2026, Not Before 2026",Before 2026
+KXABRAHAMSY-26,"Will Israel and Syria normalize relations before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KX3RDTERM-26,Will the House pass a constitutional amendment allowing Trump to have a third term before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KX30CRIME-26,"Will a 30 Under 30 honoree be charged with a felony before January 1, 2026?","Before 2026, Not Before 2026",Not Before 2026
+KX1DREUNION-26,"Will there be a One Direction reunion before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KX14AMENDCASE-26,Will Trump's birthright citizenship order take effect before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+TESLAROADSTER-25,Will Tesla Roadsters be delivered before 2026?,"Before 2026, Not Before 2026",Before 2026
+TESLACEOCHANGE-25,Will Elon Musk stop being Tesla CEO before 2025?,"Before 2026, Not Before 2026",Before 2026
+PS6-26,Will PS6 be announced before 2026?,"Before 2026, Not Before 2026",Before 2026
+OAIAGI,Will OpenAI announce the creation of AGI before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+MSFTCEO-25,Who will be the next Microsoft CEO?,"Scott Guthrie, Sam Altman, Brad Smith",Satya Nadella
+KXZYNBAN-25,Will Zyn be banned in the United States in 2025?,"Banned, Not Banned",Not Banned
+KXXCEOCHANGE,"Will X get a new CEO before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Before Dec 31, 2025"
+KXWEWORKCEO-25,Will Adam Neumann return as WeWork CEO before December 2025?,"Adam Neumann, Not Adam Neumann",Not Adam Neumann
+KXTPALBUMMILEYCYRUS-25,Will Miley Cyrus have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTORNADO-25DEC,How many tornadoes will there be in December?,"Above 75, Above 50, Above 25, Above 150, Above 125, Above 100",Above 25
+KXTOPALBUMYJID-25,Will JID have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMWIZKHALIFA-25,Will Wiz Khalifa have a number 1 album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMROCKY-25,Will A$AP Rocky have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMLILWAYNE-25,Will Lil Wayne have a #1 album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMKESHA-25,Will Kesha have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMKANYE-25,Will Ye have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMKALIUCHIS-25,Will Kali Uchis have a #1 album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMJCOLE-25,Will J Cole have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMHARRYSTYLES-25,Will Harry Styles have a number 1 album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMDAVIDO-25,Will Davido have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMCHAPPELL-25,Will Chappell Roan have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYZEDD-25,Will Zedd have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYRODDYRICCH-25,Will Roddy Ricch have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYPOSTMALONE-25,Will Post Malone have a #1 album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYPINKPANTHERESS-25,Will PinkPantheress have a number 1 album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYOLIVIA-25,Will Olivia Rodrigo have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYMEGAN-25,Will Megan Thee Stallion have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYLORDE-25,Will Lorde have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYJOEJONAS-25,Will Joe Jonas have a #1 album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYICESPICE-25,Will Ice Spice have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYFRANKOCEAN-25,Will Frank Ocean have a #1 album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYERICCHURCH-25,Will Eric Church have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYDONTOLIVER-25,Will Don Toliver have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYBRUCESPRINGSTEEN-25,Will Bruce Springsteen have a number one album in 2025?,"In 2025, Not In 2025",Not In 2025
+KXTOPALBUMBYBILLIE-25,Will Billie Eilish have a number one album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBYBEY-25,Will Beyonce have a #1 album in 2025?,"In 2025, Not In 2025",In 2025
+KXTOPALBUMBLAKESHELTON-25,Will Blake Shelton have a #1 album in 2025?,"In 2025, Not In 2025",In 2025
+KXTESLAFACTORY-26,Will Tesla close its Berlin factory before 2026?,"Before 2026, Not Before 2026",Not Before 2026
+KXRIHANNA-25,Will a new Rihanna album be released before 2026?,"Before 2026, Not Before 2026",Before 2026
+KXREACTOR-25DEC31,"Will a new nuclear reactor be approved by December 31, 2025?","Grants license, Not Grants license",Not Grants license
+KXRATECUTCOUNT-25DEC31,How many times will the Fed cut interest rates?,"9:: 225 bps, 8:: 200 bps, 7:: 175 bps, 6:: 150 bps, 5:: 125 bps, 4:: 100 bps, 3:: 75 bps, 2:: 50 bps, 14 or more:: 350 bps or more, 13:: 325 bps, 12:: 300 bps, 11:: 275 bps, 10:: 250 bps",4:: 100 bps
+KXPERTUSSIS-25,How many cases of whooping cough will there be this year?,"At least 40000, At least 35000, At least 30000, At least 25000, At least 20000, At least 15000, At least 10000",At least 20000
+KXOPENAICEOCHANGE,Will OpenAI change its CEO?,"Hires, Not Hires",Not Hires
+KXNYTOAISETTLE-25DEC31,Will the New York Times settle its lawsuit against OpenAI?,"New York Times settles, Not New York Times settles",Not New York Times settles
+KXNEWTAYLOR-TS-25,Will Taylor Swift (Taylor's Version) be announced in 2025?,"In 2025, Not In 2025",In 2025
+KXNEWTAYLOR-R-25,Will the album Reputation (Taylor's Version) be announced this year?,"Announced, Not Announced",Not Announced
+KXNEWALBUMSKY-25,"Will Sky Ferreira release a new album by December 31, 2025?","By Dec 31, 2025, Not By Dec 31, 2025","Not By Dec 31, 2025"
+KXNEWALBUMDAVEMATTHEWS-25,"Will Dave Matthews Band release a new album by December 31, 2025?","Before 2026, Not Before 2026",Before 2026
+KXMEISSNER-2531DEC,Will a major peer-reviewed journal report the near room-temperature Meissner effect?,"Confirmed, Not Confirmed",Not Confirmed
+KXH5N1-25,Will the WHO declare H5N1 a Public Health Emergency of International Concern?,"Declared Public Health Emergency of International Concern, Not Declared Public Health Emergency of International Concern",Not Declared Public Health Emergency of International Concern
+KXGUINEAWORM-25,How many cases of guinea worm disease will there be this year?,"Less than 5, Less than 15, Less than 10",Less than 5
+KXGOOGLECEOCHANGE,Will Sundar Pichai leave Google in 2025?,"Leaving, Not Leaving",Not Leaving
+KXGMECEOCHANGE,Will Ryan Cohen leave his position at Gamestop?,"CEO leaving, Not CEO leaving",Not CEO leaving
+KXFEDRATEMIN-25DEC31,Will the Federal Reserve cut interest rates to below a certain percentage?,"4.00%, 3.50%, 0.50%",0.50%
+KXFEDMEET-25,"Will the Federal Reserve hold an emergency meeting before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXFEDFACILITY-25,Will there be a new emergency Federal Reserve lending program in 2025?,"In 2025, Not In 2025",Not In 2025
+KXEMERCUTS-25,How many rate cuts will the Fed make at emergency meetings?,"4 cuts, 3 cuts, 2 cuts, 1 cuts, 0 cuts",0 cuts
+KXDISCEOCHANGE,Will Disney get a new CEO by a given date?,"Leaving, Not Leaving",Leaving
+KXBORDER,Will the border bill pass the Senate before election day?,"Passes, Not Passes",Not Passes
+KXBOEINGCEOCHANGE-25,Will there be a new Boeing CEO in 2025?,"CEO leaving, Not CEO leaving",Not CEO leaving
+KXARGCENTRALBANK-25,"Will Argentina end its central bank by December 31, 2025?","Shuts down, Not Shuts down",Not Shuts down
+KXAOH1996-2601JAN,"Will a Phase II clinical trial be announced for AOH1996 by December 31, 2025?","Passes Phase I, Phase II announced, Not Passes Phase I, Phase II announced",Phase II announced
+KXAMCCEOCHANGE,Will Adam Aron leave his position as CEO of AMC?,"CEO leaving, Not CEO leaving",Not CEO leaving
+KXAAPLCEOCHANGE,Will Apple get a new CEO before 2026?,"Before 2026, Not Before 2026",Before 2026
+JPMCEOCHANGE,Will JPM get a new CEO before 2026?,"Before 2026, Not Before 2026",Before 2026
+GTA6,"Will GTA 6 be released by December 31, 2025?","Before 2026, Not Before 2026",Before 2026
+FEDHIKE,"Will the Federal Reserve hike interest rates by December 31, 2025?","Before 2026, Not Before 2026",Before 2026
+ARGDOLLAR,"Will Argentina dollarize its economy before December 31, 2025?","Before 2026, Not Before 2026",Not Before 2026
+APPLEPORT-25DEC31,"Will Apple announce a portless phone by December 31, 2025?","Reveals, Doesn't reveal",Doesn't reveal
+APPLEFOLD,"Will Apple announce a foldable phone by December 31, 2025?","Before 2026, Not Before 2026",Before 2026
+IMOAI,"Will an AI win a gold medal at the International Math Olympiad before January 1, 2026?","Before Jan 1, 2026, Not Before Jan 1, 2026","Not Before Jan 1, 2026"
+KXAIRCANADASTRIKE-25,"Will Air Canada flight attendants stop striking before December 31, 2025?","Before Dec 31, 2025, Not Before Dec 31, 2025","Before Dec 31, 2025"
+KXAPRPOTUSEOY-26JAN01,Will the President's approval rating according to RealClearPolitics be within a certain range?,"50.1 or above, 49.0 to 50.0, 48.0 to 48.9, 47.0 to 47.9, 46.0 to 46.9, 45.0 to 45.9, 44.0 to 44.9, 43.0 to 43.9, 42.0 to 42.9, 41.0 to 41.9, 40.0 to 40.9, 39.9 or below",44.0 to 44.9
+KXTACAPORTGAME-25DEC18SCLSPO,Who will win the match between Santa Clara Azores and Sporting CP?,"Tie, Sporting CP, Santa Clara Azores",Sporting CP
+KXCOPADELREYGAME-25DEC18OURATH,"Who will win the match between Ourense and Bilbao, or will it be a tie?","Tie, Ourense, Bilbao",Bilbao
+KXCOPADELREYGAME-25DEC18BURGET,"Who will win the match between Burgos and Getafe, or will it end in a tie?","Tie, Getafe, Burgos",Getafe
+KXEUROLEAGUEGAME-25DEC18VALMTA,Who will win the game between Maccabi Tel-Aviv and Valencia Basket?,"Valencia Basket, Maccabi Tel-Aviv",Maccabi Tel-Aviv
+KXEUROLEAGUEGAME-25DEC18HTAPAN,Who will win the game between Panathinaikos BC and Hapoel Tel-Aviv?,"Panathinaikos BC, Hapoel Tel-Aviv",Panathinaikos BC
+KXEUROLEAGUEGAME-25DEC18FENOLM,Who will win the game between Olimpia Milano and Fenerbahce Istanbul?,"Olimpia Milano, Fenerbahce Istanbul",Fenerbahce Istanbul
+KXEUROLEAGUEGAME-25DEC18PARRMA,Who will win the game between Real Madrid and Paris Basketball?,"Real Madrid, Paris Basketball",Real Madrid
+KXUECLGAME-25DEC18ZRISCR,Who will win the match between Zrinjski Mostar and SK Rapid?,"Zrinjski Mostar, Tie, SK Rapid",SK Rapid
+KXUECLGAME-25DEC18SPAABE,"Who will win the match between Sparta Prague and Aberdeen, or will it be a tie?","Tie, Sparta Prague, Aberdeen",Sparta Prague
+KXUECLGAME-25DEC18SLOHAC,"Who will win the match between Slovan Bratislava and Hacken Gothenburg, or will it end in a tie?","Tie, Slovan Bratislava, Hacken Gothenburg",Tie
+KXUECLGAME-25DEC18SIGLPO,"Who will win the match between Olomouc and Lech Poznan, or will it end in a tie?","Tie, Olomouc, Lech Poznan",Tie
+KXUECLGAME-25DEC18SHARIJ,"Who will win the match between Shakhtar and Rijeka, or will it end in a tie?","Tie, Shakhtar, Rijeka",Shakhtar
+KXUECLGAME-25DEC18SHAHAM,Who will win the match between Shamrock and Spartans?,"Tie, Shamrock, Spartans",Spartans
+KXUECLGAME-25DEC18RVCDRI,Who will win the match between Vallecano and KF Drita?,"Tie, Vallecano, KF Drita",Vallecano
+KXUECLGAME-25DEC18RCSKOP,Who will win the match between Strasbourg Alsace and Breidablik?,"Tie, Strasbourg Alsace, Breidablik",Strasbourg Alsace
+KXUECLGAME-25DEC18OMOCZE,"Who will win the match between Omonia Nicosia and Czestochowa, or will it be a tie?","Tie, Omonia Nicosia, Czestochowa",Tie
+KXUECLGAME-25DEC18M05SAM,Who will win the match between Mainz and Samsunspor?,"Tie, Samsunspor, Mainz",Mainz

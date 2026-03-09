@@ -20,7 +20,7 @@ This research evaluates how well LLMs can forecast real-world events by comparin
 **Key Research Questions:**
 - How accurate are LLMs at probabilistic forecasting?
 - Which prompting strategies yield the best results?
-- Can ensemble methods improve forecasting performance?
+- Can ensemble and judgemental forecasting methods improve forecasting performance?
 - How do LLMs perform compared to human prediction markets?
 
 ## Models Implemented
@@ -38,8 +38,7 @@ This research evaluates how well LLMs can forecast real-world events by comparin
    - Combines LLM reasoning with crowd wisdom
 
 4. **Control Model** (`control_model.py`)
-   - Baseline direct forecasting without special techniques
-   - Simple prompt for comparison
+   - Baseline direct forecasting without any techniques
 
 5. **Delphi Method** (`delphi_model.py`)
    - AI-based Delphi panel with iterative expert rounds
@@ -76,10 +75,8 @@ Create a `.env` file in the root directory:
 
 ```bash
 # .env
-OPENAI_API_KEY2=your_openai_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
 ```
-
-**Important:** Use `OPENAI_API_KEY2` (not the standard `OPENAI_API_KEY`) as all scripts are configured to use this variable.
 
 ### 3. Kalshi API Setup (for Data Collection)
 

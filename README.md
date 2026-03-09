@@ -286,8 +286,6 @@ This research is for academic purposes. The forecasting models and results shoul
 
 ## Contact
 
-**Personal Email:** julietterosegoldstein@gmail.com
+**Email:** julietterosegoldstein@gmail.com
 
-**School Email:** 2026julietteg@chapin.edu
-
-**Repository:** https://github.com/yourusername/ai-forecasting
+**Repository:** https://github.com/yourusername/ai-forecasting](https://github.com/JulietteGoldstein/AI-Forecasting-Using-Judgemental-Forecasting-and-Prompting-Methods

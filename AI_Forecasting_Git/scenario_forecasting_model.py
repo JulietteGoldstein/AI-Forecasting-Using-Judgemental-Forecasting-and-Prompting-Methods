@@ -9,7 +9,7 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 print("KEY PREFIX:", api_key[:8] if api_key else "MISSING")
 if not api_key:
-    raise RuntimeError("OPENAI_API_KEY2 not found in environment/.env")
+    raise RuntimeError("OPENAI_API_KEY not found in environment/.env")
 
 client = OpenAI(api_key=api_key)
 

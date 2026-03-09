@@ -1,6 +1,6 @@
 # AI Forecasting Models: Evaluating LLM Performance on Prediction Markets
 
-This repository contains a comprehensive evaluation of Large Language Model (LLM) forecasting performance using prediction market data from Kalshi. The study implements and compares 6 different forecasting methodologies, plus an ensemble approach and meta-learning model.
+This repository contains an evaluation of Large Language Model (LLM) forecasting performance using prediction market data from Kalshi. The study implements and compares 6 different forecasting methodologies, plus an ensemble approach and meta-learning model.
 
 ## Table of Contents
 - [Overview](#overview)

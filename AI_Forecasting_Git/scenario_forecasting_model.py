@@ -6,7 +6,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY2")
+api_key = os.getenv("OPENAI_API_KEY")
 print("KEY PREFIX:", api_key[:8] if api_key else "MISSING")
 if not api_key:
     raise RuntimeError("OPENAI_API_KEY2 not found in environment/.env")

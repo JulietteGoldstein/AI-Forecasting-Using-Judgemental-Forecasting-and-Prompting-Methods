@@ -1,18 +1,3 @@
-import pandas as pd
-import csv
-import os
-import time
-from openai import OpenAI
-from dotenv import load_dotenv
-
-load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
-print("KEY PREFIX:", api_key[:8] if api_key else "MISSING")
-if not api_key:
-    raise RuntimeError("OPENAI_API_KEY not found in environment/.env")
-
-client = OpenAI(api_key=api_key)
-
 """
 Scenario Forecasting Model
 
@@ -30,6 +15,21 @@ Configuration:
 - INPUT_CSV: Path to events CSV
 - OUTPUT_CSV: Path to save predictions
 """
+
+import pandas as pd
+import csv
+import os
+import time
+from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
+print("KEY PREFIX:", api_key[:8] if api_key else "MISSING")
+if not api_key:
+    raise RuntimeError("OPENAI_API_KEY not found in environment/.env")
+
+client = OpenAI(api_key=api_key)
 
 SCENARIO_SYSTEM_PROMPT = """
     You are an expert probabilistic forecaster. You must:
